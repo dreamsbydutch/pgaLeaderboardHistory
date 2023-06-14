@@ -4121,7 +4121,7 @@
       },
       {
         "golfEventKey": 19966,
-        "isAmateur": true,
+        "isAmateur": false,
         "position": null,
         "courseID": 2826,
         "sortHelp": null,
@@ -4136,7 +4136,7 @@
         "fedExRankProjected": null,
         "movement": 0,
         "totalStrokes": 0,
-        "birthDate": "Unknown",
+        "birthDate": "1/16/2000",
         "birthPlace": "Buenos Aires - Argentina",
         "startHole": "10",
         "leaderboardRounds": [],
@@ -4147,7 +4147,7 @@
         "representsCountryName": "Arkansas",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482428.png",
         "representsCountryUrlId": 482428,
-        "proDate": null,
+        "proDate": "2023-01-01T00:00:00",
         "age": "23"
       },
       {
