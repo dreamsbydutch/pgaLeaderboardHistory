@@ -1114,8 +1114,8 @@
         "courseID": 2826,
         "sortHelp": 25,
         "overallPar": -1,
-        "todayPar": null,
-        "thruHole": null,
+        "todayPar": 0,
+        "thruHole": 1,
         "teeTime": "10:07 AM ET",
         "teeTimeUTC": "14:07:00 UTC",
         "eventMoney": 2586961,
@@ -1690,8 +1690,8 @@
         "courseID": 2826,
         "sortHelp": 38,
         "overallPar": 0,
-        "todayPar": null,
-        "thruHole": null,
+        "todayPar": 0,
+        "thruHole": 1,
         "teeTime": "10:07 AM ET",
         "teeTimeUTC": "14:07:00 UTC",
         "eventMoney": null,
@@ -1870,50 +1870,14 @@
         "courseID": 2826,
         "sortHelp": 38,
         "overallPar": 0,
-        "todayPar": 0,
-        "thruHole": 1,
-        "teeTime": "9:45 AM ET",
-        "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": 716288,
-        "status": "",
-        "fedExRank": 226,
-        "fedExRankProjected": 113,
-        "movement": 0,
-        "totalStrokes": 70,
-        "birthDate": "12/24/1997",
-        "birthPlace": "Stockholm - Sweden",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          }
-        ],
-        "golferId": 73686,
-        "firstName": "Vincent",
-        "lastName": "Norrman",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Sweden",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475696.gif",
-        "representsCountryUrlId": 475696,
-        "proDate": "2021-01-01T00:00:00",
-        "age": "25"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T38",
-        "courseID": 2826,
-        "sortHelp": 38,
-        "overallPar": 0,
         "todayPar": -1,
-        "thruHole": 1,
+        "thruHole": 2,
         "teeTime": "9:45 AM ET",
         "teeTimeUTC": "13:45:00 UTC",
         "eventMoney": 564739,
         "status": "",
-        "fedExRank": 288,
-        "fedExRankProjected": 144,
+        "fedExRank": 286,
+        "fedExRankProjected": 143,
         "movement": 18,
         "totalStrokes": 71,
         "birthDate": "12/27/1976",
@@ -1970,42 +1934,6 @@
         "representsCountryUrlId": 482438,
         "proDate": null,
         "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T38",
-        "courseID": 2826,
-        "sortHelp": 38,
-        "overallPar": 0,
-        "todayPar": null,
-        "thruHole": null,
-        "teeTime": "9:56 AM ET",
-        "teeTimeUTC": "13:56:00 UTC",
-        "eventMoney": 1983189,
-        "status": "",
-        "fedExRank": 96,
-        "fedExRankProjected": 48,
-        "movement": 0,
-        "totalStrokes": 70,
-        "birthDate": "1/26/1996",
-        "birthPlace": "Northbook, Illinois - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          }
-        ],
-        "golferId": 59267,
-        "firstName": "Nick",
-        "lastName": "Hardy",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Hardy_Nick/Hardy_Nick_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2018-01-01T00:00:00",
-        "age": "27"
       },
       {
         "golfEventKey": 19966,
@@ -2082,9 +2010,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2094,7 +2022,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "3/9/1995",
         "birthPlace": "Mission Viejo, California - United States",
@@ -2118,9 +2046,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2130,7 +2058,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -2154,9 +2082,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2166,7 +2094,7 @@
         "status": "",
         "fedExRank": 40,
         "fedExRankProjected": 20,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "5/8/1985",
         "birthPlace": "Atlanta, Georgia - United States",
@@ -2190,9 +2118,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2202,7 +2130,7 @@
         "status": "",
         "fedExRank": 80,
         "fedExRankProjected": 40,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "1/30/1995",
         "birthPlace": "Las Vegas, Nevada - United States",
@@ -2226,9 +2154,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2238,7 +2166,7 @@
         "status": "",
         "fedExRank": 46,
         "fedExRankProjected": 23,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "7/28/1993",
         "birthPlace": "San Angelo, Texas - United States",
@@ -2262,9 +2190,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2274,7 +2202,7 @@
         "status": "",
         "fedExRank": 28,
         "fedExRankProjected": 14,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "3/17/1992",
         "birthPlace": "Long Beach, California - United States",
@@ -2298,9 +2226,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2310,7 +2238,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "5/3/1990",
         "birthPlace": "West Palm Beach, Florida - United States",
@@ -2334,9 +2262,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2346,7 +2274,7 @@
         "status": "",
         "fedExRank": 56,
         "fedExRankProjected": 28,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "9/1/1994",
         "birthPlace": "Sheffield - England",
@@ -2370,9 +2298,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2382,7 +2310,7 @@
         "status": "",
         "fedExRank": 68,
         "fedExRankProjected": 34,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "4/12/1989",
         "birthPlace": "Macon, Georgia - United States",
@@ -2406,9 +2334,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2418,7 +2346,7 @@
         "status": "",
         "fedExRank": 150,
         "fedExRankProjected": 75,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "1/12/1999",
         "birthPlace": "Edmond, Oklahoma - United States",
@@ -2442,9 +2370,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2454,7 +2382,7 @@
         "status": "",
         "fedExRank": 252,
         "fedExRankProjected": 126,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "3/31/1995",
         "birthPlace": "Santiago - Chile",
@@ -2478,9 +2406,45 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
+        "overallPar": 1,
+        "todayPar": 1,
+        "thruHole": 1,
+        "teeTime": "9:56 AM ET",
+        "teeTimeUTC": "13:56:00 UTC",
+        "eventMoney": 1983189,
+        "status": "",
+        "fedExRank": 98,
+        "fedExRankProjected": 49,
+        "movement": -18,
+        "totalStrokes": 70,
+        "birthDate": "1/26/1996",
+        "birthPlace": "Northbook, Illinois - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 59267,
+        "firstName": "Nick",
+        "lastName": "Hardy",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Hardy_Nick/Hardy_Nick_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2018-01-01T00:00:00",
+        "age": "27"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T56",
+        "courseID": 2826,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": 0,
         "thruHole": 1,
@@ -2490,7 +2454,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "4/1/1989",
         "birthPlace": "Unknown",
@@ -2514,9 +2478,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2526,7 +2490,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "5/18/1995",
         "birthPlace": "Grasse - France",
@@ -2550,9 +2514,45 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
+        "overallPar": 1,
+        "todayPar": 1,
+        "thruHole": 2,
+        "teeTime": "9:45 AM ET",
+        "teeTimeUTC": "13:45:00 UTC",
+        "eventMoney": 716288,
+        "status": "",
+        "fedExRank": 230,
+        "fedExRankProjected": 115,
+        "movement": -18,
+        "totalStrokes": 70,
+        "birthDate": "12/24/1997",
+        "birthPlace": "Stockholm - Sweden",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 73686,
+        "firstName": "Vincent",
+        "lastName": "Norrman",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "Sweden",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475696.gif",
+        "representsCountryUrlId": 475696,
+        "proDate": "2021-01-01T00:00:00",
+        "age": "25"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T56",
+        "courseID": 2826,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2562,7 +2562,7 @@
         "status": "",
         "fedExRank": 66,
         "fedExRankProjected": 33,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "3/30/1998",
         "birthPlace": "Cheongju - South Korea",
@@ -2586,9 +2586,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2598,7 +2598,7 @@
         "status": "",
         "fedExRank": 58,
         "fedExRankProjected": 29,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "3/4/1993",
         "birthPlace": "Rockville, Maryland - United States",
@@ -2622,9 +2622,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2634,7 +2634,7 @@
         "status": "",
         "fedExRank": 62,
         "fedExRankProjected": 31,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "2/6/1997",
         "birthPlace": "Los Angeles, California - United States",
@@ -2658,9 +2658,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2670,7 +2670,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -2694,9 +2694,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2706,7 +2706,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "Unknown",
         "birthPlace": "Unknown",
@@ -2730,9 +2730,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2742,7 +2742,7 @@
         "status": "",
         "fedExRank": 76,
         "fedExRankProjected": 38,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "12/31/1993",
         "birthPlace": "Surrey, British Columbia - Canada",
@@ -2766,9 +2766,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2778,7 +2778,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "5/15/1983",
         "birthPlace": "Barcelona - Spain",
@@ -2802,9 +2802,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2814,7 +2814,7 @@
         "status": "",
         "fedExRank": 234,
         "fedExRankProjected": 117,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "3/25/1985",
         "birthPlace": "Worcester, Massachusetts - United States",
@@ -2838,9 +2838,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2850,7 +2850,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -2874,9 +2874,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2886,7 +2886,7 @@
         "status": "",
         "fedExRank": 92,
         "fedExRankProjected": 46,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "6/30/1992",
         "birthPlace": "Avon, Indiana - United States",
@@ -2910,9 +2910,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2922,7 +2922,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "Unknown",
         "birthPlace": "Unknown",
@@ -2946,9 +2946,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T58",
+        "position": "T56",
         "courseID": 2826,
-        "sortHelp": 58,
+        "sortHelp": 56,
         "overallPar": 1,
         "todayPar": null,
         "thruHole": null,
@@ -2958,7 +2958,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": 0,
         "totalStrokes": 71,
         "birthDate": "1/27/1992",
         "birthPlace": "Antwerp - Belgium",
@@ -3346,42 +3346,6 @@
         "courseID": 2826,
         "sortHelp": 83,
         "overallPar": 2,
-        "todayPar": 0,
-        "thruHole": 1,
-        "teeTime": "9:45 AM ET",
-        "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": 361396,
-        "status": "",
-        "fedExRank": 300,
-        "fedExRankProjected": 150,
-        "movement": 0,
-        "totalStrokes": 72,
-        "birthDate": "3/29/1996",
-        "birthPlace": "Jacksonville, Florida - United States",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 62027,
-        "firstName": "Brent",
-        "lastName": "Grant",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2017-01-01T00:00:00",
-        "age": "27"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T83",
-        "courseID": 2826,
-        "sortHelp": 83,
-        "overallPar": 2,
         "todayPar": null,
         "thruHole": null,
         "teeTime": "5:27 PM ET",
@@ -3568,8 +3532,8 @@
         "teeTimeUTC": "14:51:00 UTC",
         "eventMoney": 4116168,
         "status": "",
-        "fedExRank": 98,
-        "fedExRankProjected": 49,
+        "fedExRank": 96,
+        "fedExRankProjected": 48,
         "movement": 0,
         "totalStrokes": 72,
         "birthDate": "5/7/1997",
@@ -3810,9 +3774,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -3822,7 +3786,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "Unknown",
         "birthPlace": "Uppsala - Sweden",
@@ -3846,9 +3810,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -3858,7 +3822,7 @@
         "status": "",
         "fedExRank": 222,
         "fedExRankProjected": 111,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "12/7/1986",
         "birthPlace": "Grant, Florida - United States",
@@ -3882,9 +3846,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -3894,7 +3858,7 @@
         "status": "",
         "fedExRank": 48,
         "fedExRankProjected": 24,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "6/21/2002",
         "birthPlace": "Seoul - South Korea",
@@ -3918,19 +3882,19 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": 0,
-        "thruHole": 1,
+        "thruHole": 2,
         "teeTime": "9:45 AM ET",
         "teeTimeUTC": "13:45:00 UTC",
         "eventMoney": null,
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "11/22/1980",
         "birthPlace": "Ascot - England",
@@ -3954,9 +3918,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -3966,7 +3930,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "Unknown",
         "birthPlace": "Unknown",
@@ -3990,45 +3954,45 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
-        "todayPar": 0,
-        "thruHole": 1,
+        "todayPar": 1,
+        "thruHole": 2,
         "teeTime": "9:45 AM ET",
         "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": 697578,
+        "eventMoney": 361396,
         "status": "",
-        "fedExRank": 246,
-        "fedExRankProjected": 123,
-        "movement": 1,
-        "totalStrokes": 73,
-        "birthDate": "1/20/1988",
-        "birthPlace": "Dallas, Texas - United States",
-        "startHole": "1",
+        "fedExRank": 304,
+        "fedExRankProjected": 152,
+        "movement": -22,
+        "totalStrokes": 72,
+        "birthDate": "3/29/1996",
+        "birthPlace": "Jacksonville, Florida - United States",
+        "startHole": "10",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
-            "roundScore": 73
+            "roundScore": 72
           }
         ],
-        "golferId": 44948,
-        "firstName": "Paul",
-        "lastName": "Haley II",
-        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-small/473081.jpg",
+        "golferId": 62027,
+        "firstName": "Brent",
+        "lastName": "Grant",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
         "representsCountryName": "United States",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
-        "proDate": "2011-01-01T00:00:00",
-        "age": "35"
+        "proDate": "2017-01-01T00:00:00",
+        "age": "27"
       },
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4038,7 +4002,7 @@
         "status": "",
         "fedExRank": 368,
         "fedExRankProjected": 184,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "8/31/1971",
         "birthPlace": "Dublin - Ireland",
@@ -4062,9 +4026,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4074,7 +4038,7 @@
         "status": "",
         "fedExRank": 24,
         "fedExRankProjected": 12,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "11/12/1987",
         "birthPlace": "Beaudesert, Queensland - Australia",
@@ -4098,9 +4062,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4110,7 +4074,7 @@
         "status": "",
         "fedExRank": 120,
         "fedExRankProjected": 60,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "8/24/1991",
         "birthPlace": "Seoul - South Korea",
@@ -4134,9 +4098,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4146,7 +4110,7 @@
         "status": "",
         "fedExRank": 162,
         "fedExRankProjected": 81,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "7/16/1980",
         "birthPlace": "Adelaide - Australia",
@@ -4170,9 +4134,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4182,7 +4146,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "Unknown",
         "birthPlace": "Bangkok - Thailand",
@@ -4206,9 +4170,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4218,7 +4182,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "12/28/1984",
         "birthPlace": "Dusseldorf - Germany",
@@ -4242,9 +4206,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4254,7 +4218,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "Unknown",
         "birthPlace": "Unknown",
@@ -4278,9 +4242,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4290,7 +4254,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -4314,9 +4278,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4326,7 +4290,7 @@
         "status": "",
         "fedExRank": 156,
         "fedExRankProjected": 78,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "4/29/1993",
         "birthPlace": "Louisville, Kentucky - United States",
@@ -4350,9 +4314,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T106",
+        "position": "T105",
         "courseID": 2826,
-        "sortHelp": 106,
+        "sortHelp": 105,
         "overallPar": 3,
         "todayPar": null,
         "thruHole": null,
@@ -4362,7 +4326,7 @@
         "status": "",
         "fedExRank": 70,
         "fedExRankProjected": 35,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 73,
         "birthDate": "1/19/1991",
         "birthPlace": "Southport - England",
@@ -4386,9 +4350,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4398,7 +4362,7 @@
         "status": "",
         "fedExRank": 32,
         "fedExRankProjected": 16,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "10/14/1991",
         "birthPlace": "High Wycombe - England",
@@ -4422,9 +4386,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4434,7 +4398,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "Unknown",
         "birthPlace": "Sweden",
@@ -4458,9 +4422,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4470,7 +4434,7 @@
         "status": "",
         "fedExRank": 206,
         "fedExRankProjected": 103,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "11/12/1994",
         "birthPlace": "Anderson, South Carolina - United States",
@@ -4494,9 +4458,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4506,7 +4470,7 @@
         "status": "",
         "fedExRank": 294,
         "fedExRankProjected": 147,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "2/27/1976",
         "birthPlace": "Akron, Ohio - United States",
@@ -4530,9 +4494,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4542,7 +4506,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "Unknown",
         "birthPlace": "Alabama - United States",
@@ -4566,9 +4530,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4578,7 +4542,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "Unknown",
         "birthPlace": "Victoria - Australia",
@@ -4602,9 +4566,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4614,7 +4578,7 @@
         "status": "",
         "fedExRank": 164,
         "fedExRankProjected": 82,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "7/14/1993",
         "birthPlace": "Seoul - South Korea",
@@ -4638,9 +4602,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4650,7 +4614,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "Unknown",
         "birthPlace": "Massachusetts - United States",
@@ -4674,9 +4638,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4686,7 +4650,7 @@
         "status": "",
         "fedExRank": 166,
         "fedExRankProjected": 83,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "6/1/1993",
         "birthPlace": "Hickory, North Carolina - United States",
@@ -4710,9 +4674,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4722,7 +4686,7 @@
         "status": "",
         "fedExRank": 152,
         "fedExRankProjected": 76,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "11/11/1987",
         "birthPlace": "Clarkston, Washington - United States",
@@ -4746,19 +4710,19 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": 2,
-        "thruHole": 1,
+        "thruHole": 2,
         "teeTime": "9:45 AM ET",
         "teeTimeUTC": "13:45:00 UTC",
         "eventMoney": 951627,
         "status": "",
         "fedExRank": 170,
         "fedExRankProjected": 85,
-        "movement": -39,
+        "movement": -38,
         "totalStrokes": 72,
         "birthDate": "8/4/1994",
         "birthPlace": "Medellin - Colombia",
@@ -4782,9 +4746,45 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
+        "overallPar": 4,
+        "todayPar": 1,
+        "thruHole": 2,
+        "teeTime": "9:45 AM ET",
+        "teeTimeUTC": "13:45:00 UTC",
+        "eventMoney": 697578,
+        "status": "",
+        "fedExRank": 246,
+        "fedExRankProjected": 123,
+        "movement": -14,
+        "totalStrokes": 73,
+        "birthDate": "1/20/1988",
+        "birthPlace": "Dallas, Texas - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 44948,
+        "firstName": "Paul",
+        "lastName": "Haley II",
+        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-small/473081.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2011-01-01T00:00:00",
+        "age": "35"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T121",
+        "courseID": 2826,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4794,7 +4794,7 @@
         "status": "",
         "fedExRank": 50,
         "fedExRankProjected": 25,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "12/4/1997",
         "birthPlace": "Orange, California - United States",
@@ -4818,9 +4818,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4830,7 +4830,7 @@
         "status": "",
         "fedExRank": 44,
         "fedExRankProjected": 22,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "9/14/1992",
         "birthPlace": "Resistencia - Argentina",
@@ -4854,9 +4854,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4866,7 +4866,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "1/16/2000",
         "birthPlace": "Buenos Aires - Argentina",
@@ -4890,9 +4890,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": true,
-        "position": "T122",
+        "position": "T121",
         "courseID": 2826,
-        "sortHelp": 122,
+        "sortHelp": 121,
         "overallPar": 4,
         "todayPar": null,
         "thruHole": null,
@@ -4902,7 +4902,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 1,
+        "movement": 2,
         "totalStrokes": 74,
         "birthDate": "Unknown",
         "birthPlace": "Victoria - Australia",
@@ -5038,8 +5038,8 @@
         "courseID": 2826,
         "sortHelp": 137,
         "overallPar": 5,
-        "todayPar": null,
-        "thruHole": null,
+        "todayPar": 0,
+        "thruHole": 1,
         "teeTime": "9:56 AM ET",
         "teeTimeUTC": "13:56:00 UTC",
         "eventMoney": 1760373,
@@ -5074,8 +5074,8 @@
         "courseID": 2826,
         "sortHelp": 137,
         "overallPar": 5,
-        "todayPar": null,
-        "thruHole": null,
+        "todayPar": 0,
+        "thruHole": 1,
         "teeTime": "10:07 AM ET",
         "teeTimeUTC": "14:07:00 UTC",
         "eventMoney": 3509665,
@@ -5398,8 +5398,8 @@
         "courseID": 2826,
         "sortHelp": 147,
         "overallPar": 7,
-        "todayPar": null,
-        "thruHole": null,
+        "todayPar": 0,
+        "thruHole": 1,
         "teeTime": "9:56 AM ET",
         "teeTimeUTC": "13:56:00 UTC",
         "eventMoney": null,
@@ -5659,7 +5659,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -6091,7 +6091,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -6235,7 +6235,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -6811,7 +6811,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -6955,7 +6955,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -7531,7 +7531,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -7675,7 +7675,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -7819,7 +7819,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -7963,7 +7963,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -8251,7 +8251,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -8683,7 +8683,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -8827,7 +8827,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -8971,7 +8971,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -9403,7 +9403,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -9547,7 +9547,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -10123,7 +10123,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -10267,7 +10267,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -10699,7 +10699,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -10843,7 +10843,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -10987,7 +10987,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -11131,7 +11131,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -11851,7 +11851,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -12427,7 +12427,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -12571,7 +12571,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -13435,7 +13435,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -13579,7 +13579,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -14299,7 +14299,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -14731,7 +14731,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -15019,7 +15019,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -15307,7 +15307,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -15451,7 +15451,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -16747,7 +16747,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -16891,7 +16891,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 83,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -17035,7 +17035,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 38,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -17323,7 +17323,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -17467,7 +17467,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -17611,7 +17611,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -17755,7 +17755,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -18331,7 +18331,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 38,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -19339,7 +19339,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -20923,7 +20923,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -21499,7 +21499,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -21643,7 +21643,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -21787,7 +21787,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -21931,7 +21931,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -22363,7 +22363,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -22507,7 +22507,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -22651,7 +22651,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -23227,7 +23227,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -23803,7 +23803,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -23947,7 +23947,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -24523,7 +24523,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -24667,7 +24667,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -25819,7 +25819,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -25963,7 +25963,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -26683,7 +26683,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -26971,7 +26971,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -27259,7 +27259,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -27547,7 +27547,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -32436,10 +32436,10 @@
         "golferId": 61535,
         "round": 2,
         "out": 0,
-        "in": 0,
-        "total": 0,
+        "in": 4,
+        "total": 4,
         "startHole": 10,
-        "holesPlayed": null,
+        "holesPlayed": 1,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -32449,7 +32449,7 @@
             "hole": 10,
             "holeOrder": 1,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 409
           },
           {
@@ -34884,14 +34884,14 @@
         "golferId": 73686,
         "round": 2,
         "out": 0,
-        "in": 4,
-        "total": 4,
+        "in": 8,
+        "total": 8,
         "startHole": 10,
-        "holesPlayed": 1,
+        "holesPlayed": 2,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 38,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -34904,7 +34904,7 @@
             "hole": 11,
             "holeOrder": 2,
             "par": 3,
-            "score": "",
+            "score": "4",
             "yardage": 290
           },
           {
@@ -35027,21 +35027,21 @@
         "eventName": "U.S. Open",
         "golferId": 59267,
         "round": 2,
-        "out": 0,
+        "out": 6,
         "in": 0,
-        "total": 0,
+        "total": 6,
         "startHole": 1,
-        "holesPlayed": null,
+        "holesPlayed": 1,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 38,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
             "holeOrder": 1,
             "par": 5,
-            "score": "",
+            "score": "6",
             "yardage": 590
           },
           {
@@ -35172,10 +35172,10 @@
         "golferId": 56541,
         "round": 2,
         "out": 0,
-        "in": 0,
-        "total": 0,
+        "in": 4,
+        "total": 4,
         "startHole": 10,
-        "holesPlayed": null,
+        "holesPlayed": 1,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -35185,7 +35185,7 @@
             "hole": 10,
             "holeOrder": 1,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 409
           },
           {
@@ -36043,7 +36043,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -36187,7 +36187,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -36331,7 +36331,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -36475,7 +36475,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -36619,7 +36619,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -36763,7 +36763,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -36907,7 +36907,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -37051,7 +37051,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -37195,7 +37195,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -37339,7 +37339,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -37483,7 +37483,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -37627,7 +37627,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -37764,10 +37764,10 @@
         "golferId": 12218,
         "round": 2,
         "out": 0,
-        "in": 3,
-        "total": 3,
+        "in": 6,
+        "total": 6,
         "startHole": 10,
-        "holesPlayed": 1,
+        "holesPlayed": 2,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -37784,7 +37784,7 @@
             "hole": 11,
             "holeOrder": 2,
             "par": 3,
-            "score": "",
+            "score": "3",
             "yardage": 290
           },
           {
@@ -37915,7 +37915,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -38203,7 +38203,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -38347,7 +38347,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -38491,7 +38491,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -38635,7 +38635,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -38779,7 +38779,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -38923,7 +38923,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -39067,7 +39067,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -39211,7 +39211,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -39355,7 +39355,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -39499,7 +39499,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 1,
@@ -39643,7 +39643,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -39787,7 +39787,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 58,
+        "position": 56,
         "scores": [
           {
             "hole": 10,
@@ -41652,14 +41652,14 @@
         "golferId": 62027,
         "round": 2,
         "out": 0,
-        "in": 4,
-        "total": 4,
+        "in": 8,
+        "total": 8,
         "startHole": 10,
-        "holesPlayed": 1,
+        "holesPlayed": 2,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 83,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -41672,7 +41672,7 @@
             "hole": 11,
             "holeOrder": 2,
             "par": 3,
-            "score": "",
+            "score": "4",
             "yardage": 290
           },
           {
@@ -41795,15 +41795,15 @@
         "eventName": "U.S. Open",
         "golferId": 81984,
         "round": 2,
-        "out": 7,
+        "out": 11,
         "in": 0,
-        "total": 7,
+        "total": 11,
         "startHole": 1,
-        "holesPlayed": 1,
+        "holesPlayed": 2,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -41816,7 +41816,7 @@
             "hole": 2,
             "holeOrder": 2,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 497
           },
           {
@@ -43387,7 +43387,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -43531,7 +43531,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -43675,7 +43675,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -43819,7 +43819,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -43963,7 +43963,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -44107,7 +44107,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -44251,7 +44251,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -44395,7 +44395,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -44539,7 +44539,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -44683,7 +44683,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -44819,15 +44819,15 @@
         "eventName": "U.S. Open",
         "golferId": 25122,
         "round": 2,
-        "out": 5,
+        "out": 9,
         "in": 0,
-        "total": 5,
+        "total": 9,
         "startHole": 1,
-        "holesPlayed": 1,
+        "holesPlayed": 2,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -44840,7 +44840,7 @@
             "hole": 2,
             "holeOrder": 2,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 497
           },
           {
@@ -44963,15 +44963,15 @@
         "eventName": "U.S. Open",
         "golferId": 44948,
         "round": 2,
-        "out": 5,
+        "out": 10,
         "in": 0,
-        "total": 5,
+        "total": 10,
         "startHole": 1,
-        "holesPlayed": 1,
+        "holesPlayed": 2,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -44984,7 +44984,7 @@
             "hole": 2,
             "holeOrder": 2,
             "par": 4,
-            "score": "",
+            "score": "5",
             "yardage": 497
           },
           {
@@ -45115,7 +45115,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -45259,7 +45259,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -45403,7 +45403,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 10,
@@ -45547,7 +45547,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 106,
+        "position": 105,
         "scores": [
           {
             "hole": 1,
@@ -45691,7 +45691,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -45835,7 +45835,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -45979,7 +45979,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -46123,7 +46123,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -46267,7 +46267,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -46411,7 +46411,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -46555,7 +46555,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -46699,7 +46699,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -46843,7 +46843,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -46987,7 +46987,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -47131,7 +47131,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -47275,7 +47275,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -47419,7 +47419,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 1,
@@ -47563,7 +47563,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 122,
+        "position": 121,
         "scores": [
           {
             "hole": 10,
@@ -47699,11 +47699,11 @@
         "eventName": "U.S. Open",
         "golferId": 75989,
         "round": 2,
-        "out": 0,
+        "out": 5,
         "in": 0,
-        "total": 0,
+        "total": 5,
         "startHole": 1,
-        "holesPlayed": null,
+        "holesPlayed": 1,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -47713,7 +47713,7 @@
             "hole": 1,
             "holeOrder": 1,
             "par": 5,
-            "score": "",
+            "score": "5",
             "yardage": 590
           },
           {
@@ -47844,10 +47844,10 @@
         "golferId": 58676,
         "round": 2,
         "out": 0,
-        "in": 0,
-        "total": 0,
+        "in": 4,
+        "total": 4,
         "startHole": 10,
-        "holesPlayed": null,
+        "holesPlayed": 1,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -47857,7 +47857,7 @@
             "hole": 10,
             "holeOrder": 1,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 409
           },
           {
@@ -49571,11 +49571,11 @@
         "eventName": "U.S. Open",
         "golferId": 77929,
         "round": 2,
-        "out": 0,
+        "out": 5,
         "in": 0,
-        "total": 0,
+        "total": 5,
         "startHole": 1,
-        "holesPlayed": null,
+        "holesPlayed": 1,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -49585,7 +49585,7 @@
             "hole": 1,
             "holeOrder": 1,
             "par": 5,
-            "score": "",
+            "score": "5",
             "yardage": 590
           },
           {
