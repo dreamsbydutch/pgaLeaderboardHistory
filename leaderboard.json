@@ -3,7 +3,7 @@
     "eventKey": 19966,
     "eventName": "U.S. Open",
     "scoringType": "StrokePlay",
-    "cutlinePosition": 65,
+    "cutlinePosition": 66,
     "cutlineScore": 2,
     "eventStatus": "",
     "hasOdds": false,
@@ -110,7 +110,47 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "3",
+        "position": "T3",
+        "courseID": 2826,
+        "sortHelp": 3,
+        "overallPar": -8,
+        "todayPar": 0,
+        "thruHole": 18,
+        "teeTime": "4:54 PM ET",
+        "teeTimeUTC": "20:54:00 UTC",
+        "eventMoney": 6739597,
+        "status": "",
+        "fedExRank": 20,
+        "fedExRankProjected": 10,
+        "movement": -2,
+        "totalStrokes": 132,
+        "birthDate": "10/25/1993",
+        "birthPlace": "La Jolla, California - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 62
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 59503,
+        "firstName": "Xander",
+        "lastName": "Schauffele",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/p-t/483991.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2015-01-01T00:00:00",
+        "age": "29"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T3",
         "courseID": 2826,
         "sortHelp": 3,
         "overallPar": -8,
@@ -150,9 +190,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T4",
+        "position": "5",
         "courseID": 2826,
-        "sortHelp": 4,
+        "sortHelp": 5,
         "overallPar": -7,
         "todayPar": -4,
         "thruHole": 18,
@@ -160,9 +200,9 @@
         "teeTimeUTC": "14:29:00 UTC",
         "eventMoney": 4370942,
         "status": "",
-        "fedExRank": 66,
-        "fedExRankProjected": 33,
-        "movement": 3,
+        "fedExRank": 68,
+        "fedExRankProjected": 34,
+        "movement": 2,
         "totalStrokes": 133,
         "birthDate": "7/23/1989",
         "birthPlace": "Valdosta, Georgia - United States",
@@ -186,42 +226,6 @@
         "representsCountryUrlId": 475851,
         "proDate": "2011-01-01T00:00:00",
         "age": "33"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T4",
-        "courseID": 2826,
-        "sortHelp": 4,
-        "overallPar": -7,
-        "todayPar": 1,
-        "thruHole": 17,
-        "teeTime": "4:54 PM ET",
-        "teeTimeUTC": "20:54:00 UTC",
-        "eventMoney": 6739597,
-        "status": "",
-        "fedExRank": 22,
-        "fedExRankProjected": 11,
-        "movement": -3,
-        "totalStrokes": 62,
-        "birthDate": "10/25/1993",
-        "birthPlace": "La Jolla, California - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 62
-          }
-        ],
-        "golferId": 59503,
-        "firstName": "Xander",
-        "lastName": "Schauffele",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/p-t/483991.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2015-01-01T00:00:00",
-        "age": "29"
       },
       {
         "golfEventKey": 19966,
@@ -470,6 +474,46 @@
         "courseID": 2826,
         "sortHelp": 12,
         "overallPar": -2,
+        "todayPar": -1,
+        "thruHole": 18,
+        "teeTime": "11:24 AM ET",
+        "teeTimeUTC": "15:24:00 UTC",
+        "eventMoney": 2123002,
+        "status": "",
+        "fedExRank": 126,
+        "fedExRankProjected": 63,
+        "movement": 13,
+        "totalStrokes": 138,
+        "birthDate": "6/12/1997",
+        "birthPlace": "San Jose, California - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 69
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 69
+          }
+        ],
+        "golferId": 61948,
+        "firstName": "Justin",
+        "lastName": "Suh",
+        "imageUrl": "https://static.golfchannel.com/GC/2019/NCAA_Mens_Headshots/Suh_Justin.png",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2019-01-01T00:00:00",
+        "age": "26"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T12",
+        "courseID": 2826,
+        "sortHelp": 12,
+        "overallPar": -2,
         "todayPar": 3,
         "thruHole": 18,
         "teeTime": "11:13 AM ET",
@@ -706,46 +750,6 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T12",
-        "courseID": 2826,
-        "sortHelp": 12,
-        "overallPar": -2,
-        "todayPar": -1,
-        "thruHole": 18,
-        "teeTime": "11:24 AM ET",
-        "teeTimeUTC": "15:24:00 UTC",
-        "eventMoney": 2123002,
-        "status": "",
-        "fedExRank": 126,
-        "fedExRankProjected": 63,
-        "movement": 13,
-        "totalStrokes": 138,
-        "birthDate": "6/12/1997",
-        "birthPlace": "San Jose, California - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 69
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 69
-          }
-        ],
-        "golferId": 61948,
-        "firstName": "Justin",
-        "lastName": "Suh",
-        "imageUrl": "https://static.golfchannel.com/GC/2019/NCAA_Mens_Headshots/Suh_Justin.png",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2019-01-01T00:00:00",
-        "age": "26"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
         "position": "T19",
         "courseID": 2826,
         "sortHelp": 19,
@@ -831,7 +835,7 @@
         "sortHelp": 19,
         "overallPar": -1,
         "todayPar": 0,
-        "thruHole": 17,
+        "thruHole": 18,
         "teeTime": "4:54 PM ET",
         "teeTimeUTC": "20:54:00 UTC",
         "eventMoney": 9426434,
@@ -839,7 +843,7 @@
         "fedExRank": 8,
         "fedExRankProjected": 4,
         "movement": 6,
-        "totalStrokes": 69,
+        "totalStrokes": 139,
         "birthDate": "9/18/1997",
         "birthPlace": "Oslo - Norway",
         "startHole": "1",
@@ -847,6 +851,10 @@
           {
             "roundNumber": 1,
             "roundScore": 69
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 70
           }
         ],
         "golferId": 66448,
@@ -872,8 +880,8 @@
         "teeTimeUTC": "20:43:00 UTC",
         "eventMoney": 4804201,
         "status": "",
-        "fedExRank": 20,
-        "fedExRankProjected": 10,
+        "fedExRank": 22,
+        "fedExRankProjected": 11,
         "movement": -12,
         "totalStrokes": 139,
         "birthDate": "6/28/1995",
@@ -897,46 +905,6 @@
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475741.gif",
         "representsCountryUrlId": 475741,
         "proDate": "2012-01-01T00:00:00",
-        "age": "27"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T19",
-        "courseID": 2826,
-        "sortHelp": 19,
-        "overallPar": -1,
-        "todayPar": -1,
-        "thruHole": 18,
-        "teeTime": "9:56 AM ET",
-        "teeTimeUTC": "13:56:00 UTC",
-        "eventMoney": 1983189,
-        "status": "",
-        "fedExRank": 92,
-        "fedExRankProjected": 46,
-        "movement": 19,
-        "totalStrokes": 139,
-        "birthDate": "1/26/1996",
-        "birthPlace": "Northbook, Illinois - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 69
-          }
-        ],
-        "golferId": 59267,
-        "firstName": "Nick",
-        "lastName": "Hardy",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Hardy_Nick/Hardy_Nick_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2018-01-01T00:00:00",
         "age": "27"
       },
       {
@@ -978,6 +946,46 @@
         "representsCountryUrlId": 475851,
         "proDate": "2009-01-01T00:00:00",
         "age": "35"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T19",
+        "courseID": 2826,
+        "sortHelp": 19,
+        "overallPar": -1,
+        "todayPar": -1,
+        "thruHole": 18,
+        "teeTime": "9:56 AM ET",
+        "teeTimeUTC": "13:56:00 UTC",
+        "eventMoney": 1983189,
+        "status": "",
+        "fedExRank": 92,
+        "fedExRankProjected": 46,
+        "movement": 19,
+        "totalStrokes": 139,
+        "birthDate": "1/26/1996",
+        "birthPlace": "Northbook, Illinois - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 69
+          }
+        ],
+        "golferId": 59267,
+        "firstName": "Nick",
+        "lastName": "Hardy",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Hardy_Nick/Hardy_Nick_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2018-01-01T00:00:00",
+        "age": "27"
       },
       {
         "golfEventKey": 19966,
@@ -1826,42 +1834,6 @@
         "courseID": 2826,
         "sortHelp": 39,
         "overallPar": 1,
-        "todayPar": 2,
-        "thruHole": 17,
-        "teeTime": "4:54 PM ET",
-        "teeTimeUTC": "20:54:00 UTC",
-        "eventMoney": 14775965,
-        "status": "",
-        "fedExRank": 2,
-        "fedExRankProjected": 1,
-        "movement": -14,
-        "totalStrokes": 69,
-        "birthDate": "11/10/1994",
-        "birthPlace": "Barrika - Spain",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 69
-          }
-        ],
-        "golferId": 58207,
-        "firstName": "Jon",
-        "lastName": "Rahm",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/p-t/483994.jpg",
-        "representsCountryName": "Spain",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475833.gif",
-        "representsCountryUrlId": 475833,
-        "proDate": "2016-01-01T00:00:00",
-        "age": "28"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T39",
-        "courseID": 2826,
-        "sortHelp": 39,
-        "overallPar": 1,
         "todayPar": -1,
         "thruHole": 18,
         "teeTime": "11:24 AM ET",
@@ -1978,22 +1950,58 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
+        "position": "T39",
+        "courseID": 2826,
+        "sortHelp": 39,
+        "overallPar": 1,
+        "todayPar": 4,
+        "thruHole": 17,
+        "teeTime": "5:16 PM ET",
+        "teeTimeUTC": "21:16:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -32,
+        "totalStrokes": 67,
+        "birthDate": "9/19/1992",
+        "birthPlace": "Bordeaux - France",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 67
+          }
+        ],
+        "golferId": 61954,
+        "firstName": "Paul",
+        "lastName": "Barjon",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Barjon_Paul/Barjon_Paul_L_closeup.jpg",
+        "representsCountryName": "France",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475707.gif",
+        "representsCountryUrlId": 475707,
+        "proDate": "2016-01-01T00:00:00",
+        "age": "30"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": true,
         "position": "T50",
         "courseID": 2826,
         "sortHelp": 50,
         "overallPar": 2,
         "todayPar": 1,
         "thruHole": 18,
-        "teeTime": "10:51 AM ET",
-        "teeTimeUTC": "14:51:00 UTC",
-        "eventMoney": 3686006,
+        "teeTime": "9:56 AM ET",
+        "teeTimeUTC": "13:56:00 UTC",
+        "eventMoney": null,
         "status": "",
-        "fedExRank": 64,
-        "fedExRankProjected": 32,
+        "fedExRank": null,
+        "fedExRankProjected": null,
         "movement": 6,
         "totalStrokes": 142,
-        "birthDate": "4/12/1989",
-        "birthPlace": "Macon, Georgia - United States",
+        "birthDate": "Unknown",
+        "birthPlace": "-",
         "startHole": "10",
         "leaderboardRounds": [
           {
@@ -2005,175 +2013,15 @@
             "roundScore": 71
           }
         ],
-        "golferId": 30560,
-        "firstName": "Russell",
-        "lastName": "Henley",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Henley_Russell/Henley_Russell_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2011-01-01T00:00:00",
-        "age": "34"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T50",
-        "courseID": 2826,
-        "sortHelp": 50,
-        "overallPar": 2,
-        "todayPar": 0,
-        "thruHole": 18,
-        "teeTime": "10:51 AM ET",
-        "teeTimeUTC": "14:51:00 UTC",
-        "eventMoney": 4116168,
-        "status": "",
-        "fedExRank": 96,
-        "fedExRankProjected": 48,
-        "movement": 33,
-        "totalStrokes": 142,
-        "birthDate": "5/7/1997",
-        "birthPlace": "Scarborough, New York - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 70
-          }
-        ],
-        "golferId": 60169,
-        "firstName": "Cameron",
-        "lastName": "Young",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/u-z/483971.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2019-01-01T00:00:00",
-        "age": "26"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "T50",
-        "courseID": 2826,
-        "sortHelp": 50,
-        "overallPar": 2,
-        "todayPar": 2,
-        "thruHole": 18,
-        "teeTime": "10:07 AM ET",
-        "teeTimeUTC": "14:07:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -12,
-        "totalStrokes": 142,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 76777,
-        "firstName": "Aldrich",
-        "lastName": "Potgieter",
+        "golferId": 76457,
+        "firstName": "Maxwell",
+        "lastName": "Moldovan",
         "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Australia",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475608.gif",
-        "representsCountryUrlId": 475608,
+        "representsCountryName": "Ohio State",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482438.png",
+        "representsCountryUrlId": 482438,
         "proDate": null,
         "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T50",
-        "courseID": 2826,
-        "sortHelp": 50,
-        "overallPar": 2,
-        "todayPar": -1,
-        "thruHole": 18,
-        "teeTime": "10:29 AM ET",
-        "teeTimeUTC": "14:29:00 UTC",
-        "eventMoney": 310232,
-        "status": "",
-        "fedExRank": 362,
-        "fedExRankProjected": 181,
-        "movement": 57,
-        "totalStrokes": 142,
-        "birthDate": "8/31/1971",
-        "birthPlace": "Dublin - Ireland",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 73
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 69
-          }
-        ],
-        "golferId": 11342,
-        "firstName": "Padraig",
-        "lastName": "Harrington",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Harrington_Padraig/Harrington_Padraig_L_closeup.jpg",
-        "representsCountryName": "Ireland",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476066.gif",
-        "representsCountryUrlId": 476066,
-        "proDate": "1995-01-01T00:00:00",
-        "age": "51"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T50",
-        "courseID": 2826,
-        "sortHelp": 50,
-        "overallPar": 2,
-        "todayPar": 1,
-        "thruHole": 18,
-        "teeTime": "11:13 AM ET",
-        "teeTimeUTC": "15:13:00 UTC",
-        "eventMoney": 6622875,
-        "status": "",
-        "fedExRank": 28,
-        "fedExRankProjected": 14,
-        "movement": 6,
-        "totalStrokes": 142,
-        "birthDate": "3/17/1992",
-        "birthPlace": "Long Beach, California - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 71
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 71
-          }
-        ],
-        "golferId": 40805,
-        "firstName": "Patrick",
-        "lastName": "Cantlay",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/a-e/483982.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2012-01-01T00:00:00",
-        "age": "31"
       },
       {
         "golfEventKey": 19966,
@@ -2262,18 +2110,98 @@
         "courseID": 2826,
         "sortHelp": 50,
         "overallPar": 2,
-        "todayPar": 1,
+        "todayPar": 2,
         "thruHole": 18,
-        "teeTime": "9:56 AM ET",
-        "teeTimeUTC": "13:56:00 UTC",
+        "teeTime": "10:07 AM ET",
+        "teeTimeUTC": "14:07:00 UTC",
         "eventMoney": null,
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 6,
+        "movement": -12,
         "totalStrokes": 142,
         "birthDate": "Unknown",
         "birthPlace": "-",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 76777,
+        "firstName": "Aldrich",
+        "lastName": "Potgieter",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "Australia",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475608.gif",
+        "representsCountryUrlId": 475608,
+        "proDate": null,
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T50",
+        "courseID": 2826,
+        "sortHelp": 50,
+        "overallPar": 2,
+        "todayPar": 0,
+        "thruHole": 18,
+        "teeTime": "10:51 AM ET",
+        "teeTimeUTC": "14:51:00 UTC",
+        "eventMoney": 4116168,
+        "status": "",
+        "fedExRank": 96,
+        "fedExRankProjected": 48,
+        "movement": 33,
+        "totalStrokes": 142,
+        "birthDate": "5/7/1997",
+        "birthPlace": "Scarborough, New York - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 60169,
+        "firstName": "Cameron",
+        "lastName": "Young",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/u-z/483971.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2019-01-01T00:00:00",
+        "age": "26"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T50",
+        "courseID": 2826,
+        "sortHelp": 50,
+        "overallPar": 2,
+        "todayPar": 1,
+        "thruHole": 18,
+        "teeTime": "10:51 AM ET",
+        "teeTimeUTC": "14:51:00 UTC",
+        "eventMoney": 3686006,
+        "status": "",
+        "fedExRank": 64,
+        "fedExRankProjected": 32,
+        "movement": 6,
+        "totalStrokes": 142,
+        "birthDate": "4/12/1989",
+        "birthPlace": "Macon, Georgia - United States",
         "startHole": "10",
         "leaderboardRounds": [
           {
@@ -2285,15 +2213,15 @@
             "roundScore": 71
           }
         ],
-        "golferId": 76457,
-        "firstName": "Maxwell",
-        "lastName": "Moldovan",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Ohio State",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482438.png",
-        "representsCountryUrlId": 482438,
-        "proDate": null,
-        "age": "Unknown"
+        "golferId": 30560,
+        "firstName": "Russell",
+        "lastName": "Henley",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Henley_Russell/Henley_Russell_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2011-01-01T00:00:00",
+        "age": "34"
       },
       {
         "golfEventKey": 19966,
@@ -2302,34 +2230,158 @@
         "courseID": 2826,
         "sortHelp": 50,
         "overallPar": 2,
-        "todayPar": 5,
-        "thruHole": 16,
-        "teeTime": "5:16 PM ET",
-        "teeTimeUTC": "21:16:00 UTC",
-        "eventMoney": null,
+        "todayPar": -1,
+        "thruHole": 18,
+        "teeTime": "10:29 AM ET",
+        "teeTimeUTC": "14:29:00 UTC",
+        "eventMoney": 310232,
         "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -43,
-        "totalStrokes": 67,
-        "birthDate": "9/19/1992",
-        "birthPlace": "Bordeaux - France",
+        "fedExRank": 362,
+        "fedExRankProjected": 181,
+        "movement": 57,
+        "totalStrokes": 142,
+        "birthDate": "8/31/1971",
+        "birthPlace": "Dublin - Ireland",
         "startHole": "1",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
-            "roundScore": 67
+            "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 69
           }
         ],
-        "golferId": 61954,
-        "firstName": "Paul",
-        "lastName": "Barjon",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Barjon_Paul/Barjon_Paul_L_closeup.jpg",
-        "representsCountryName": "France",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475707.gif",
-        "representsCountryUrlId": 475707,
-        "proDate": "2016-01-01T00:00:00",
+        "golferId": 11342,
+        "firstName": "Padraig",
+        "lastName": "Harrington",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Harrington_Padraig/Harrington_Padraig_L_closeup.jpg",
+        "representsCountryName": "Ireland",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476066.gif",
+        "representsCountryUrlId": 476066,
+        "proDate": "1995-01-01T00:00:00",
+        "age": "51"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T50",
+        "courseID": 2826,
+        "sortHelp": 50,
+        "overallPar": 2,
+        "todayPar": 4,
+        "thruHole": 18,
+        "teeTime": "11:35 AM ET",
+        "teeTimeUTC": "15:35:00 UTC",
+        "eventMoney": 134594,
+        "status": "",
+        "fedExRank": 398,
+        "fedExRankProjected": 199,
+        "movement": -36,
+        "totalStrokes": 142,
+        "birthDate": "1/4/1993",
+        "birthPlace": "Bogota - Colombia",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 68
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 74
+          }
+        ],
+        "golferId": 60321,
+        "firstName": "Sebastián",
+        "lastName": "Muñoz",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/k-o/483985.jpg",
+        "representsCountryName": "Colombia",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475645.gif",
+        "representsCountryUrlId": 475645,
+        "proDate": "2015-01-01T00:00:00",
         "age": "30"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T50",
+        "courseID": 2826,
+        "sortHelp": 50,
+        "overallPar": 2,
+        "todayPar": -1,
+        "thruHole": 18,
+        "teeTime": "4:10 PM ET",
+        "teeTimeUTC": "20:10:00 UTC",
+        "eventMoney": 3861567,
+        "status": "",
+        "fedExRank": 66,
+        "fedExRankProjected": 33,
+        "movement": 57,
+        "totalStrokes": 142,
+        "birthDate": "1/19/1991",
+        "birthPlace": "Southport - England",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 69
+          }
+        ],
+        "golferId": 39840,
+        "firstName": "Tommy",
+        "lastName": "Fleetwood",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Fleetwood_Tommy/Fleetwood_Tommy_L_closeup.jpg",
+        "representsCountryName": "England",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
+        "representsCountryUrlId": 476063,
+        "proDate": "2010-01-01T00:00:00",
+        "age": "32"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T50",
+        "courseID": 2826,
+        "sortHelp": 50,
+        "overallPar": 2,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "4:54 PM ET",
+        "teeTimeUTC": "20:54:00 UTC",
+        "eventMoney": 14775965,
+        "status": "",
+        "fedExRank": 2,
+        "fedExRankProjected": 1,
+        "movement": -25,
+        "totalStrokes": 142,
+        "birthDate": "11/10/1994",
+        "birthPlace": "Barrika - Spain",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 69
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 58207,
+        "firstName": "Jon",
+        "lastName": "Rahm",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/p-t/483994.jpg",
+        "representsCountryName": "Spain",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475833.gif",
+        "representsCountryUrlId": 475833,
+        "proDate": "2016-01-01T00:00:00",
+        "age": "28"
       },
       {
         "golfEventKey": 19966,
@@ -2410,46 +2462,6 @@
         "representsCountryUrlId": 475773,
         "proDate": "2011-01-01T00:00:00",
         "age": "36"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T50",
-        "courseID": 2826,
-        "sortHelp": 50,
-        "overallPar": 2,
-        "todayPar": -1,
-        "thruHole": 18,
-        "teeTime": "4:10 PM ET",
-        "teeTimeUTC": "20:10:00 UTC",
-        "eventMoney": 3861567,
-        "status": "",
-        "fedExRank": 68,
-        "fedExRankProjected": 34,
-        "movement": 57,
-        "totalStrokes": 142,
-        "birthDate": "1/19/1991",
-        "birthPlace": "Southport - England",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 73
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 69
-          }
-        ],
-        "golferId": 39840,
-        "firstName": "Tommy",
-        "lastName": "Fleetwood",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Fleetwood_Tommy/Fleetwood_Tommy_L_closeup.jpg",
-        "representsCountryName": "England",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
-        "representsCountryUrlId": 476063,
-        "proDate": "2010-01-01T00:00:00",
-        "age": "32"
       },
       {
         "golfEventKey": 19966,
@@ -2618,78 +2630,38 @@
         "courseID": 2826,
         "sortHelp": 50,
         "overallPar": 2,
-        "todayPar": 4,
+        "todayPar": 1,
         "thruHole": 18,
-        "teeTime": "11:35 AM ET",
-        "teeTimeUTC": "15:35:00 UTC",
-        "eventMoney": 134594,
+        "teeTime": "11:13 AM ET",
+        "teeTimeUTC": "15:13:00 UTC",
+        "eventMoney": 6622875,
         "status": "",
-        "fedExRank": 398,
-        "fedExRankProjected": 199,
-        "movement": -36,
+        "fedExRank": 28,
+        "fedExRankProjected": 14,
+        "movement": 6,
         "totalStrokes": 142,
-        "birthDate": "1/4/1993",
-        "birthPlace": "Bogota - Colombia",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 68
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 74
-          }
-        ],
-        "golferId": 60321,
-        "firstName": "Sebastián",
-        "lastName": "Muñoz",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/k-o/483985.jpg",
-        "representsCountryName": "Colombia",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475645.gif",
-        "representsCountryUrlId": 475645,
-        "proDate": "2015-01-01T00:00:00",
-        "age": "30"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T67",
-        "courseID": 2826,
-        "sortHelp": 67,
-        "overallPar": 3,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "11:46 AM ET",
-        "teeTimeUTC": "15:46:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -29,
-        "totalStrokes": 143,
-        "birthDate": "2/11/1996",
-        "birthPlace": "Mooresville, North Carolina - United States",
+        "birthDate": "3/17/1992",
+        "birthPlace": "Long Beach, California - United States",
         "startHole": "1",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
-            "roundScore": 70
+            "roundScore": 71
           },
           {
             "roundNumber": 2,
-            "roundScore": 73
+            "roundScore": 71
           }
         ],
-        "golferId": 61880,
+        "golferId": 40805,
         "firstName": "Patrick",
-        "lastName": "Cover",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "lastName": "Cantlay",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/a-e/483982.jpg",
         "representsCountryName": "United States",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
-        "proDate": "2018-01-01T00:00:00",
-        "age": "27"
+        "proDate": "2012-01-01T00:00:00",
+        "age": "31"
       },
       {
         "golfEventKey": 19966,
@@ -2738,94 +2710,18 @@
         "courseID": 2826,
         "sortHelp": 67,
         "overallPar": 3,
-        "todayPar": -3,
-        "thruHole": 16,
-        "teeTime": "5:27 PM ET",
-        "teeTimeUTC": "21:27:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": 76,
-        "totalStrokes": 76,
-        "birthDate": "11/14/1995",
-        "birthPlace": "Watkinsville, Georgia - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 76
-          }
-        ],
-        "golferId": 60157,
-        "firstName": "Kyle",
-        "lastName": "Mueller",
-        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-large/482531.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2018-01-01T00:00:00",
-        "age": "26"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T67",
-        "courseID": 2826,
-        "sortHelp": 67,
-        "overallPar": 3,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "9:45 AM ET",
-        "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": 716288,
-        "status": "",
-        "fedExRank": 234,
-        "fedExRankProjected": 117,
-        "movement": -29,
-        "totalStrokes": 143,
-        "birthDate": "12/24/1997",
-        "birthPlace": "Stockholm - Sweden",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 73686,
-        "firstName": "Vincent",
-        "lastName": "Norrman",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Sweden",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475696.gif",
-        "representsCountryUrlId": 475696,
-        "proDate": "2021-01-01T00:00:00",
-        "age": "25"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T67",
-        "courseID": 2826,
-        "sortHelp": 67,
-        "overallPar": 3,
         "todayPar": 1,
         "thruHole": 18,
-        "teeTime": "9:45 AM ET",
-        "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": 951627,
+        "teeTime": "11:24 AM ET",
+        "teeTimeUTC": "15:24:00 UTC",
+        "eventMoney": 1664770,
         "status": "",
-        "fedExRank": 174,
-        "fedExRankProjected": 87,
+        "fedExRank": 144,
+        "fedExRankProjected": 72,
         "movement": 16,
         "totalStrokes": 143,
-        "birthDate": "8/4/1994",
-        "birthPlace": "Medellin - Colombia",
+        "birthDate": "Unknown",
+        "birthPlace": "Atlanta, Georgia - United States",
         "startHole": "1",
         "leaderboardRounds": [
           {
@@ -2837,95 +2733,55 @@
             "roundScore": 71
           }
         ],
-        "golferId": 81984,
-        "firstName": "Nico",
-        "lastName": "Echavarria",
+        "golferId": 69642,
+        "firstName": "Davis",
+        "lastName": "Thompson",
+        "imageUrl": "https://static.golfchannel.com/GC/2019/NCAA_Mens_Headshots/Thompson_Davis.png",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2021-01-01T00:00:00",
+        "age": "24"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T67",
+        "courseID": 2826,
+        "sortHelp": 67,
+        "overallPar": 3,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "11:46 AM ET",
+        "teeTimeUTC": "15:46:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -29,
+        "totalStrokes": 143,
+        "birthDate": "2/11/1996",
+        "birthPlace": "Mooresville, North Carolina - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 61880,
+        "firstName": "Patrick",
+        "lastName": "Cover",
         "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Colombia",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475645.gif",
-        "representsCountryUrlId": 475645,
-        "proDate": "2017-01-01T00:00:00",
-        "age": "28"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T67",
-        "courseID": 2826,
-        "sortHelp": 67,
-        "overallPar": 3,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "10:07 AM ET",
-        "teeTimeUTC": "14:07:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -29,
-        "totalStrokes": 143,
-        "birthDate": "12/3/1996",
-        "birthPlace": "Kempton Park - South Africa",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 56541,
-        "firstName": "Thriston",
-        "lastName": "Lawrence",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/481801.jpg",
-        "representsCountryName": "South Africa",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475845sa.png",
-        "representsCountryUrlId": 475832,
-        "proDate": "2014-01-01T00:00:00",
-        "age": "26"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T67",
-        "courseID": 2826,
-        "sortHelp": 67,
-        "overallPar": 3,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "10:29 AM ET",
-        "teeTimeUTC": "14:29:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -29,
-        "totalStrokes": 143,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 60177,
-        "firstName": "Adrian",
-        "lastName": "Meronk",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/k-o/483995.jpg",
-        "representsCountryName": "Poland",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/475786.gif",
-        "representsCountryUrlId": 475786,
-        "proDate": "1900-01-01T00:00:00",
-        "age": "Unknown"
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2018-01-01T00:00:00",
+        "age": "27"
       },
       {
         "golfEventKey": 19966,
@@ -2966,46 +2822,6 @@
         "representsCountryUrlId": 475851,
         "proDate": "2012-01-01T00:00:00",
         "age": "29"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T67",
-        "courseID": 2826,
-        "sortHelp": 67,
-        "overallPar": 3,
-        "todayPar": 1,
-        "thruHole": 18,
-        "teeTime": "11:24 AM ET",
-        "teeTimeUTC": "15:24:00 UTC",
-        "eventMoney": 1664770,
-        "status": "",
-        "fedExRank": 144,
-        "fedExRankProjected": 72,
-        "movement": 16,
-        "totalStrokes": 143,
-        "birthDate": "Unknown",
-        "birthPlace": "Atlanta, Georgia - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 71
-          }
-        ],
-        "golferId": 69642,
-        "firstName": "Davis",
-        "lastName": "Thompson",
-        "imageUrl": "https://static.golfchannel.com/GC/2019/NCAA_Mens_Headshots/Thompson_Davis.png",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2021-01-01T00:00:00",
-        "age": "24"
       },
       {
         "golfEventKey": 19966,
@@ -3130,89 +2946,277 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T79",
+        "position": "T67",
         "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
+        "sortHelp": 67,
+        "overallPar": 3,
         "todayPar": 3,
         "thruHole": 18,
-        "teeTime": "11:13 AM ET",
-        "teeTimeUTC": "15:13:00 UTC",
-        "eventMoney": 3385096,
+        "teeTime": "9:45 AM ET",
+        "teeTimeUTC": "13:45:00 UTC",
+        "eventMoney": 716288,
         "status": "",
-        "fedExRank": 40,
-        "fedExRankProjected": 20,
-        "movement": -23,
-        "totalStrokes": 144,
-        "birthDate": "5/8/1985",
-        "birthPlace": "Atlanta, Georgia - United States",
+        "fedExRank": 234,
+        "fedExRankProjected": 117,
+        "movement": -29,
+        "totalStrokes": 143,
+        "birthDate": "12/24/1997",
+        "birthPlace": "Stockholm - Sweden",
         "startHole": "10",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
-            "roundScore": 71
+            "roundScore": 70
           },
           {
             "roundNumber": 2,
             "roundScore": 73
           }
         ],
-        "golferId": 30945,
-        "firstName": "Chris",
-        "lastName": "Kirk",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Kirk_Chris/Kirk_Chris_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2007-01-01T00:00:00",
-        "age": "38"
+        "golferId": 73686,
+        "firstName": "Vincent",
+        "lastName": "Norrman",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "Sweden",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475696.gif",
+        "representsCountryUrlId": 475696,
+        "proDate": "2021-01-01T00:00:00",
+        "age": "25"
       },
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T79",
+        "position": "T67",
         "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": -1,
+        "sortHelp": 67,
+        "overallPar": 3,
+        "todayPar": 3,
         "thruHole": 18,
         "teeTime": "10:07 AM ET",
         "teeTimeUTC": "14:07:00 UTC",
-        "eventMoney": 3509665,
+        "eventMoney": null,
         "status": "",
-        "fedExRank": 54,
-        "fedExRankProjected": 27,
-        "movement": 58,
-        "totalStrokes": 144,
-        "birthDate": "1/26/1992",
-        "birthPlace": "Vincennes, Indiana - United States",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -29,
+        "totalStrokes": 143,
+        "birthDate": "12/3/1996",
+        "birthPlace": "Kempton Park - South Africa",
         "startHole": "10",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
-            "roundScore": 75
+            "roundScore": 70
           },
           {
             "roundNumber": 2,
-            "roundScore": 69
+            "roundScore": 73
           }
         ],
-        "golferId": 58676,
-        "firstName": "Adam",
-        "lastName": "Schenk",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Schenk_Adam/Schenk_Adam_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2015-01-01T00:00:00",
-        "age": "31"
+        "golferId": 56541,
+        "firstName": "Thriston",
+        "lastName": "Lawrence",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/481801.jpg",
+        "representsCountryName": "South Africa",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475845sa.png",
+        "representsCountryUrlId": 475832,
+        "proDate": "2014-01-01T00:00:00",
+        "age": "26"
       },
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T79",
+        "position": "T67",
         "courseID": 2826,
-        "sortHelp": 79,
+        "sortHelp": 67,
+        "overallPar": 3,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "10:29 AM ET",
+        "teeTimeUTC": "14:29:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -29,
+        "totalStrokes": 143,
+        "birthDate": "Unknown",
+        "birthPlace": "-",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 60177,
+        "firstName": "Adrian",
+        "lastName": "Meronk",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/k-o/483995.jpg",
+        "representsCountryName": "Poland",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/475786.gif",
+        "representsCountryUrlId": 475786,
+        "proDate": "1900-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T67",
+        "courseID": 2826,
+        "sortHelp": 67,
+        "overallPar": 3,
+        "todayPar": 1,
+        "thruHole": 18,
+        "teeTime": "9:45 AM ET",
+        "teeTimeUTC": "13:45:00 UTC",
+        "eventMoney": 951627,
+        "status": "",
+        "fedExRank": 174,
+        "fedExRankProjected": 87,
+        "movement": 16,
+        "totalStrokes": 143,
+        "birthDate": "8/4/1994",
+        "birthPlace": "Medellin - Colombia",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 71
+          }
+        ],
+        "golferId": 81984,
+        "firstName": "Nico",
+        "lastName": "Echavarria",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "Colombia",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475645.gif",
+        "representsCountryUrlId": 475645,
+        "proDate": "2017-01-01T00:00:00",
+        "age": "28"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T67",
+        "courseID": 2826,
+        "sortHelp": 67,
+        "overallPar": 3,
+        "todayPar": 3,
+        "thruHole": 17,
+        "teeTime": "5:27 PM ET",
+        "teeTimeUTC": "21:27:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -29,
+        "totalStrokes": 70,
+        "birthDate": "Unknown",
+        "birthPlace": "-",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 25516,
+        "firstName": "Andy",
+        "lastName": "Svoboda",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "1900-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T67",
+        "courseID": 2826,
+        "sortHelp": 67,
+        "overallPar": 3,
+        "todayPar": -3,
+        "thruHole": 16,
+        "teeTime": "5:27 PM ET",
+        "teeTimeUTC": "21:27:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": 76,
+        "totalStrokes": 76,
+        "birthDate": "11/14/1995",
+        "birthPlace": "Watkinsville, Georgia - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 76
+          }
+        ],
+        "golferId": 60157,
+        "firstName": "Kyle",
+        "lastName": "Mueller",
+        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-large/482531.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2018-01-01T00:00:00",
+        "age": "26"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 2,
+        "thruHole": 16,
+        "teeTime": "5:27 PM ET",
+        "teeTimeUTC": "21:27:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": 3,
+        "totalStrokes": 72,
+        "birthDate": "4/14/1995",
+        "birthPlace": "Fort Lauderdale, Florida - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 65744,
+        "firstName": "Jordan",
+        "lastName": "Gumberg",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2017-01-01T00:00:00",
+        "age": "26"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
         "overallPar": 4,
         "todayPar": 3,
         "thruHole": 18,
@@ -3222,7 +3226,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -23,
+        "movement": -24,
         "totalStrokes": 144,
         "birthDate": "4/1/1989",
         "birthPlace": "Unknown",
@@ -3250,437 +3254,49 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T79",
+        "position": "T80",
         "courseID": 2826,
-        "sortHelp": 79,
+        "sortHelp": 80,
         "overallPar": 4,
-        "todayPar": 4,
-        "thruHole": 16,
-        "teeTime": "5:27 PM ET",
-        "teeTimeUTC": "21:27:00 UTC",
-        "eventMoney": null,
+        "todayPar": -1,
+        "thruHole": 18,
+        "teeTime": "10:07 AM ET",
+        "teeTimeUTC": "14:07:00 UTC",
+        "eventMoney": 3509665,
         "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -41,
-        "totalStrokes": 70,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
+        "fedExRank": 54,
+        "fedExRankProjected": 27,
+        "movement": 57,
+        "totalStrokes": 144,
+        "birthDate": "1/26/1992",
+        "birthPlace": "Vincennes, Indiana - United States",
         "startHole": "10",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
-            "roundScore": 70
+            "roundScore": 75
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 69
           }
         ],
-        "golferId": 25516,
-        "firstName": "Andy",
-        "lastName": "Svoboda",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "golferId": 58676,
+        "firstName": "Adam",
+        "lastName": "Schenk",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Schenk_Adam/Schenk_Adam_L_closeup.jpg",
         "representsCountryName": "United States",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
-        "proDate": "1900-01-01T00:00:00",
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 2,
-        "thruHole": 16,
-        "teeTime": "5:27 PM ET",
-        "teeTimeUTC": "21:27:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": 4,
-        "totalStrokes": 72,
-        "birthDate": "4/14/1995",
-        "birthPlace": "Fort Lauderdale, Florida - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 65744,
-        "firstName": "Jordan",
-        "lastName": "Gumberg",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2017-01-01T00:00:00",
-        "age": "26"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "3:59 PM ET",
-        "teeTimeUTC": "19:59:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -23,
-        "totalStrokes": 144,
-        "birthDate": "1/27/1992",
-        "birthPlace": "Antwerp - Belgium",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 71
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 55830,
-        "firstName": "Thomas",
-        "lastName": "Pieters",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Pieters_Thomas/Pieters_Thomas_L_closeup.jpg",
-        "representsCountryName": "Belgium",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475615.gif",
-        "representsCountryUrlId": 475615,
-        "proDate": "2013-01-01T00:00:00",
-        "age": "31"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 4,
-        "thruHole": 18,
-        "teeTime": "4:21 PM ET",
-        "teeTimeUTC": "20:21:00 UTC",
-        "eventMoney": 2618493,
-        "status": "",
-        "fedExRank": 98,
-        "fedExRankProjected": 49,
-        "movement": -41,
-        "totalStrokes": 144,
-        "birthDate": "5/1/1993",
-        "birthPlace": "Vienna - Austria",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 74
-          }
-        ],
-        "golferId": 55593,
-        "firstName": "Sepp",
-        "lastName": "Straka",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Straka_Sepp/Straka_Sepp_L_closeup.jpg",
-        "representsCountryName": "Austria",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475609.gif",
-        "representsCountryUrlId": 475609,
-        "proDate": "2016-01-01T00:00:00",
-        "age": "30"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 4,
-        "thruHole": 18,
-        "teeTime": "4:32 PM ET",
-        "teeTimeUTC": "20:32:00 UTC",
-        "eventMoney": 3782414,
-        "status": "",
-        "fedExRank": 58,
-        "fedExRankProjected": 29,
-        "movement": -41,
-        "totalStrokes": 144,
-        "birthDate": "1/6/1992",
-        "birthPlace": "Listowel, Ontario - Canada",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 74
-          }
-        ],
-        "golferId": 55887,
-        "firstName": "Corey",
-        "lastName": "Conners",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/a-e/483974.jpg",
-        "representsCountryName": "Canada",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475635.gif",
-        "representsCountryUrlId": 475635,
         "proDate": "2015-01-01T00:00:00",
         "age": "31"
       },
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T79",
+        "position": "T80",
         "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": -2,
-        "thruHole": 18,
-        "teeTime": "4:32 PM ET",
-        "teeTimeUTC": "20:32:00 UTC",
-        "eventMoney": 4173120,
-        "status": "",
-        "fedExRank": 36,
-        "fedExRankProjected": 18,
-        "movement": 64,
-        "totalStrokes": 144,
-        "birthDate": "7/30/1980",
-        "birthPlace": "Johannesburg - South Africa",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 76
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 68
-          }
-        ],
-        "golferId": 11890,
-        "firstName": "Justin",
-        "lastName": "Rose",
-        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-large/483633.png",
-        "representsCountryName": "England",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
-        "representsCountryUrlId": 476063,
-        "proDate": "1998-01-01T00:00:00",
-        "age": "42"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 2,
-        "thruHole": 18,
-        "teeTime": "4:21 PM ET",
-        "teeTimeUTC": "20:21:00 UTC",
-        "eventMoney": 3984135,
-        "status": "",
-        "fedExRank": 82,
-        "fedExRankProjected": 41,
-        "movement": 4,
-        "totalStrokes": 144,
-        "birthDate": "5/25/1989",
-        "birthPlace": "Statesville, North Carolina - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 35191,
-        "firstName": "Tom",
-        "lastName": "Hoge",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Hoge_Tom/Hoge_Tom_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2011-01-01T00:00:00",
-        "age": "34"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 6,
-        "thruHole": 18,
-        "teeTime": "4:43 PM ET",
-        "teeTimeUTC": "20:43:00 UTC",
-        "eventMoney": 8573087,
-        "status": "",
-        "fedExRank": 6,
-        "fedExRankProjected": 3,
-        "movement": -65,
-        "totalStrokes": 144,
-        "birthDate": "11/19/1990",
-        "birthPlace": "Burbank, California - United States",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 68
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 76
-          }
-        ],
-        "golferId": 42371,
-        "firstName": "Max",
-        "lastName": "Homa",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/f-j/483980.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2013-01-01T00:00:00",
-        "age": "32"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 3,
-        "thruHole": 17,
-        "teeTime": "5:16 PM ET",
-        "teeTimeUTC": "21:16:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -23,
-        "totalStrokes": 71,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 71
-          }
-        ],
-        "golferId": 77297,
-        "firstName": "Barclay",
-        "lastName": "Brown",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Stanford",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482448.png",
-        "representsCountryUrlId": 482448,
-        "proDate": null,
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 2,
-        "thruHole": 18,
-        "teeTime": "5:05 PM ET",
-        "teeTimeUTC": "21:05:00 UTC",
-        "eventMoney": 3541407,
-        "status": "",
-        "fedExRank": 38,
-        "fedExRankProjected": 19,
-        "movement": 4,
-        "totalStrokes": 144,
-        "birthDate": "3/4/1987",
-        "birthPlace": "Waterford - Ireland",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 29483,
-        "firstName": "Seamus",
-        "lastName": "Power",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Power_Seamus/Power_Seamus_L_closeup.jpg",
-        "representsCountryName": "Ireland",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476066.gif",
-        "representsCountryUrlId": 476066,
-        "proDate": "2011-01-01T00:00:00",
-        "age": "36"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
-        "overallPar": 4,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "11:57 AM ET",
-        "teeTimeUTC": "15:57:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -23,
-        "totalStrokes": 144,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 71
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 61677,
-        "firstName": "J.J.",
-        "lastName": "Grey",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "England",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
-        "representsCountryUrlId": 476063,
-        "proDate": "2016-01-01T00:00:00",
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T79",
-        "courseID": 2826,
-        "sortHelp": 79,
+        "sortHelp": 80,
         "overallPar": 4,
         "todayPar": 2,
         "thruHole": 18,
@@ -3690,7 +3306,7 @@
         "status": "",
         "fedExRank": 18,
         "fedExRankProjected": 9,
-        "movement": 4,
+        "movement": 3,
         "totalStrokes": 144,
         "birthDate": "4/14/1988",
         "birthPlace": "Winnipeg, Manitoba - Canada",
@@ -3718,9 +3334,369 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T80",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "11:13 AM ET",
+        "teeTimeUTC": "15:13:00 UTC",
+        "eventMoney": 3385096,
+        "status": "",
+        "fedExRank": 40,
+        "fedExRankProjected": 20,
+        "movement": -24,
+        "totalStrokes": 144,
+        "birthDate": "5/8/1985",
+        "birthPlace": "Atlanta, Georgia - United States",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 71
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 30945,
+        "firstName": "Chris",
+        "lastName": "Kirk",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Kirk_Chris/Kirk_Chris_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2007-01-01T00:00:00",
+        "age": "38"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "3:59 PM ET",
+        "teeTimeUTC": "19:59:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -24,
+        "totalStrokes": 144,
+        "birthDate": "1/27/1992",
+        "birthPlace": "Antwerp - Belgium",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 71
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 55830,
+        "firstName": "Thomas",
+        "lastName": "Pieters",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Pieters_Thomas/Pieters_Thomas_L_closeup.jpg",
+        "representsCountryName": "Belgium",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475615.gif",
+        "representsCountryUrlId": 475615,
+        "proDate": "2013-01-01T00:00:00",
+        "age": "31"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 2,
+        "thruHole": 18,
+        "teeTime": "5:05 PM ET",
+        "teeTimeUTC": "21:05:00 UTC",
+        "eventMoney": 3541407,
+        "status": "",
+        "fedExRank": 38,
+        "fedExRankProjected": 19,
+        "movement": 3,
+        "totalStrokes": 144,
+        "birthDate": "3/4/1987",
+        "birthPlace": "Waterford - Ireland",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 29483,
+        "firstName": "Seamus",
+        "lastName": "Power",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Power_Seamus/Power_Seamus_L_closeup.jpg",
+        "representsCountryName": "Ireland",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476066.gif",
+        "representsCountryUrlId": 476066,
+        "proDate": "2011-01-01T00:00:00",
+        "age": "36"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 4,
+        "thruHole": 18,
+        "teeTime": "4:21 PM ET",
+        "teeTimeUTC": "20:21:00 UTC",
+        "eventMoney": 2618493,
+        "status": "",
+        "fedExRank": 98,
+        "fedExRankProjected": 49,
+        "movement": -42,
+        "totalStrokes": 144,
+        "birthDate": "5/1/1993",
+        "birthPlace": "Vienna - Austria",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 74
+          }
+        ],
+        "golferId": 55593,
+        "firstName": "Sepp",
+        "lastName": "Straka",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Straka_Sepp/Straka_Sepp_L_closeup.jpg",
+        "representsCountryName": "Austria",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475609.gif",
+        "representsCountryUrlId": 475609,
+        "proDate": "2016-01-01T00:00:00",
+        "age": "30"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 4,
+        "thruHole": 18,
+        "teeTime": "4:32 PM ET",
+        "teeTimeUTC": "20:32:00 UTC",
+        "eventMoney": 3782414,
+        "status": "",
+        "fedExRank": 58,
+        "fedExRankProjected": 29,
+        "movement": -42,
+        "totalStrokes": 144,
+        "birthDate": "1/6/1992",
+        "birthPlace": "Listowel, Ontario - Canada",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 74
+          }
+        ],
+        "golferId": 55887,
+        "firstName": "Corey",
+        "lastName": "Conners",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/a-e/483974.jpg",
+        "representsCountryName": "Canada",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475635.gif",
+        "representsCountryUrlId": 475635,
+        "proDate": "2015-01-01T00:00:00",
+        "age": "31"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": -2,
+        "thruHole": 18,
+        "teeTime": "4:32 PM ET",
+        "teeTimeUTC": "20:32:00 UTC",
+        "eventMoney": 4173120,
+        "status": "",
+        "fedExRank": 36,
+        "fedExRankProjected": 18,
+        "movement": 63,
+        "totalStrokes": 144,
+        "birthDate": "7/30/1980",
+        "birthPlace": "Johannesburg - South Africa",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 76
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 68
+          }
+        ],
+        "golferId": 11890,
+        "firstName": "Justin",
+        "lastName": "Rose",
+        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-large/483633.png",
+        "representsCountryName": "England",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
+        "representsCountryUrlId": 476063,
+        "proDate": "1998-01-01T00:00:00",
+        "age": "42"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 2,
+        "thruHole": 18,
+        "teeTime": "4:21 PM ET",
+        "teeTimeUTC": "20:21:00 UTC",
+        "eventMoney": 3984135,
+        "status": "",
+        "fedExRank": 82,
+        "fedExRankProjected": 41,
+        "movement": 3,
+        "totalStrokes": 144,
+        "birthDate": "5/25/1989",
+        "birthPlace": "Statesville, North Carolina - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 35191,
+        "firstName": "Tom",
+        "lastName": "Hoge",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Hoge_Tom/Hoge_Tom_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2011-01-01T00:00:00",
+        "age": "34"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 6,
+        "thruHole": 18,
+        "teeTime": "4:43 PM ET",
+        "teeTimeUTC": "20:43:00 UTC",
+        "eventMoney": 8573087,
+        "status": "",
+        "fedExRank": 6,
+        "fedExRankProjected": 3,
+        "movement": -66,
+        "totalStrokes": 144,
+        "birthDate": "11/19/1990",
+        "birthPlace": "Burbank, California - United States",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 68
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 76
+          }
+        ],
+        "golferId": 42371,
+        "firstName": "Max",
+        "lastName": "Homa",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/f-j/483980.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2013-01-01T00:00:00",
+        "age": "32"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T80",
+        "courseID": 2826,
+        "sortHelp": 80,
+        "overallPar": 4,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "11:57 AM ET",
+        "teeTimeUTC": "15:57:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -24,
+        "totalStrokes": 144,
+        "birthDate": "Unknown",
+        "birthPlace": "-",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 71
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 61677,
+        "firstName": "J.J.",
+        "lastName": "Grey",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "England",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
+        "representsCountryUrlId": 476063,
+        "proDate": "2016-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 3,
         "thruHole": 18,
@@ -3730,7 +3706,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -11,
+        "movement": -10,
         "totalStrokes": 145,
         "birthDate": "2/13/1996",
         "birthPlace": "Fort Lauderdale, Florida - United States",
@@ -3758,45 +3734,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
-        "overallPar": 5,
-        "todayPar": 5,
-        "thruHole": 17,
-        "teeTime": "5:05 PM ET",
-        "teeTimeUTC": "21:05:00 UTC",
-        "eventMoney": 343422,
-        "status": "",
-        "fedExRank": 348,
-        "fedExRankProjected": 174,
-        "movement": -56,
-        "totalStrokes": 70,
-        "birthDate": "5/21/1973",
-        "birthPlace": "Huntsville, Alabama - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          }
-        ],
-        "golferId": 11390,
-        "firstName": "Stewart",
-        "lastName": "Cink",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Cink_Stewart/Cink_Stewart_L_closeup.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "1995-01-01T00:00:00",
-        "age": "50"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T94",
-        "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 2,
         "thruHole": 18,
@@ -3806,7 +3746,7 @@
         "status": "",
         "fedExRank": 162,
         "fedExRankProjected": 81,
-        "movement": 13,
+        "movement": 14,
         "totalStrokes": 145,
         "birthDate": "7/16/1980",
         "birthPlace": "Adelaide - Australia",
@@ -3834,9 +3774,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 1,
         "thruHole": 18,
@@ -3846,7 +3786,7 @@
         "status": "",
         "fedExRank": 166,
         "fedExRankProjected": 83,
-        "movement": 29,
+        "movement": 30,
         "totalStrokes": 145,
         "birthDate": "6/1/1993",
         "birthPlace": "Hickory, North Carolina - United States",
@@ -3874,9 +3814,125 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
+        "overallPar": 5,
+        "todayPar": 5,
+        "thruHole": 17,
+        "teeTime": "5:05 PM ET",
+        "teeTimeUTC": "21:05:00 UTC",
+        "eventMoney": 343422,
+        "status": "",
+        "fedExRank": 348,
+        "fedExRankProjected": 174,
+        "movement": -55,
+        "totalStrokes": 70,
+        "birthDate": "5/21/1973",
+        "birthPlace": "Huntsville, Alabama - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 11390,
+        "firstName": "Stewart",
+        "lastName": "Cink",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Cink_Stewart/Cink_Stewart_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "1995-01-01T00:00:00",
+        "age": "50"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
+        "overallPar": 5,
+        "todayPar": 5,
+        "thruHole": 18,
+        "teeTime": "5:16 PM ET",
+        "teeTimeUTC": "21:16:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -55,
+        "totalStrokes": 145,
+        "birthDate": "Unknown",
+        "birthPlace": "-",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 70
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 75
+          }
+        ],
+        "golferId": 73751,
+        "firstName": "Mac",
+        "lastName": "Meissner",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2021-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": true,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
+        "overallPar": 5,
+        "todayPar": 4,
+        "thruHole": 18,
+        "teeTime": "5:16 PM ET",
+        "teeTimeUTC": "21:16:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -37,
+        "totalStrokes": 145,
+        "birthDate": "Unknown",
+        "birthPlace": "-",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 71
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 74
+          }
+        ],
+        "golferId": 77297,
+        "firstName": "Barclay",
+        "lastName": "Brown",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "Stanford",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482448.png",
+        "representsCountryUrlId": 482448,
+        "proDate": null,
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 3,
         "thruHole": 18,
@@ -3886,7 +3942,7 @@
         "status": "",
         "fedExRank": 336,
         "fedExRankProjected": 168,
-        "movement": -11,
+        "movement": -10,
         "totalStrokes": 145,
         "birthDate": "11/8/1982",
         "birthPlace": "Turin - Italy",
@@ -3914,9 +3970,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 3,
         "thruHole": 18,
@@ -3926,7 +3982,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -11,
+        "movement": -10,
         "totalStrokes": 145,
         "birthDate": "5/15/1987",
         "birthPlace": "Calgary, Alberta - Canada",
@@ -3954,9 +4010,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 4,
         "thruHole": 18,
@@ -3966,7 +4022,7 @@
         "status": "",
         "fedExRank": 236,
         "fedExRankProjected": 118,
-        "movement": -38,
+        "movement": -37,
         "totalStrokes": 145,
         "birthDate": "3/25/1985",
         "birthPlace": "Worcester, Massachusetts - United States",
@@ -3994,9 +4050,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 5,
         "thruHole": 18,
@@ -4006,7 +4062,7 @@
         "status": "",
         "fedExRank": 312,
         "fedExRankProjected": 156,
-        "movement": -56,
+        "movement": -55,
         "totalStrokes": 145,
         "birthDate": "12/5/1995",
         "birthPlace": "Bendigo - Australia",
@@ -4034,9 +4090,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 3,
         "thruHole": 18,
@@ -4046,7 +4102,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -11,
+        "movement": -10,
         "totalStrokes": 145,
         "birthDate": "Unknown",
         "birthPlace": "Unknown",
@@ -4074,165 +4130,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
-        "overallPar": 5,
-        "todayPar": 5,
-        "thruHole": 17,
-        "teeTime": "5:16 PM ET",
-        "teeTimeUTC": "21:16:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -56,
-        "totalStrokes": 70,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 70
-          }
-        ],
-        "golferId": 73751,
-        "firstName": "Mac",
-        "lastName": "Meissner",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2021-01-01T00:00:00",
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T94",
-        "courseID": 2826,
-        "sortHelp": 94,
-        "overallPar": 5,
-        "todayPar": 2,
-        "thruHole": 18,
-        "teeTime": "9:45 AM ET",
-        "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": 13,
-        "totalStrokes": 145,
-        "birthDate": "11/22/1980",
-        "birthPlace": "Ascot - England",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 73
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 25122,
-        "firstName": "Ross",
-        "lastName": "Fisher",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Fisher_Ross/Fisher_Ross_L_closeup.jpg",
-        "representsCountryName": "England",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
-        "representsCountryUrlId": 476063,
-        "proDate": "2004-01-01T00:00:00",
-        "age": "42"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T94",
-        "courseID": 2826,
-        "sortHelp": 94,
-        "overallPar": 5,
-        "todayPar": 3,
-        "thruHole": 18,
-        "teeTime": "10:07 AM ET",
-        "teeTimeUTC": "14:07:00 UTC",
-        "eventMoney": 873577,
-        "status": "",
-        "fedExRank": 238,
-        "fedExRankProjected": 119,
-        "movement": -11,
-        "totalStrokes": 145,
-        "birthDate": "5/30/1991",
-        "birthPlace": "Richmond Hill, Ontario - Canada",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 57338,
-        "firstName": "Taylor",
-        "lastName": "Pendrith",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/p-t/483988.jpg",
-        "representsCountryName": "Canada",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475635.gif",
-        "representsCountryUrlId": 475635,
-        "proDate": "2014-01-01T00:00:00",
-        "age": "32"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T94",
-        "courseID": 2826,
-        "sortHelp": 94,
-        "overallPar": 5,
-        "todayPar": 0,
-        "thruHole": 18,
-        "teeTime": "10:18 AM ET",
-        "teeTimeUTC": "14:18:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": 43,
-        "totalStrokes": 145,
-        "birthDate": "Unknown",
-        "birthPlace": "South Africa",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 75
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 70
-          }
-        ],
-        "golferId": 71043,
-        "firstName": "Wilco",
-        "lastName": "Nienaber",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "South Africa",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475845sa.png",
-        "representsCountryUrlId": 475832,
-        "proDate": "1900-01-01T00:00:00",
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T94",
-        "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 0,
         "thruHole": 18,
@@ -4242,7 +4142,7 @@
         "status": "",
         "fedExRank": 34,
         "fedExRankProjected": 17,
-        "movement": 43,
+        "movement": 44,
         "totalStrokes": 145,
         "birthDate": "1/14/1993",
         "birthPlace": "Chico, California - United States",
@@ -4270,9 +4170,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T94",
+        "position": "T93",
         "courseID": 2826,
-        "sortHelp": 94,
+        "sortHelp": 93,
         "overallPar": 5,
         "todayPar": 1,
         "thruHole": 18,
@@ -4282,7 +4182,7 @@
         "status": "",
         "fedExRank": 46,
         "fedExRankProjected": 23,
-        "movement": 29,
+        "movement": 30,
         "totalStrokes": 145,
         "birthDate": "9/14/1992",
         "birthPlace": "Resistencia - Argentina",
@@ -4310,23 +4210,143 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
+        "overallPar": 5,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "10:07 AM ET",
+        "teeTimeUTC": "14:07:00 UTC",
+        "eventMoney": 873577,
+        "status": "",
+        "fedExRank": 238,
+        "fedExRankProjected": 119,
+        "movement": -10,
+        "totalStrokes": 145,
+        "birthDate": "5/30/1991",
+        "birthPlace": "Richmond Hill, Ontario - Canada",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 57338,
+        "firstName": "Taylor",
+        "lastName": "Pendrith",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/p-t/483988.jpg",
+        "representsCountryName": "Canada",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475635.gif",
+        "representsCountryUrlId": 475635,
+        "proDate": "2014-01-01T00:00:00",
+        "age": "32"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
+        "overallPar": 5,
+        "todayPar": 0,
+        "thruHole": 18,
+        "teeTime": "10:18 AM ET",
+        "teeTimeUTC": "14:18:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": 44,
+        "totalStrokes": 145,
+        "birthDate": "Unknown",
+        "birthPlace": "South Africa",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 75
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 70
+          }
+        ],
+        "golferId": 71043,
+        "firstName": "Wilco",
+        "lastName": "Nienaber",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "South Africa",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475845sa.png",
+        "representsCountryUrlId": 475832,
+        "proDate": "1900-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T93",
+        "courseID": 2826,
+        "sortHelp": 93,
+        "overallPar": 5,
+        "todayPar": 2,
+        "thruHole": 18,
+        "teeTime": "9:45 AM ET",
+        "teeTimeUTC": "13:45:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": 14,
+        "totalStrokes": 145,
+        "birthDate": "11/22/1980",
+        "birthPlace": "Ascot - England",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 25122,
+        "firstName": "Ross",
+        "lastName": "Fisher",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Fisher_Ross/Fisher_Ross_L_closeup.jpg",
+        "representsCountryName": "England",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
+        "representsCountryUrlId": 476063,
+        "proDate": "2004-01-01T00:00:00",
+        "age": "42"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
         "position": "T109",
         "courseID": 2826,
         "sortHelp": 109,
         "overallPar": 6,
         "todayPar": 4,
         "thruHole": 18,
-        "teeTime": "10:29 AM ET",
-        "teeTimeUTC": "14:29:00 UTC",
-        "eventMoney": 4977110,
+        "teeTime": "9:45 AM ET",
+        "teeTimeUTC": "13:45:00 UTC",
+        "eventMoney": 361396,
         "status": "",
-        "fedExRank": 30,
-        "fedExRankProjected": 15,
+        "fedExRank": 302,
+        "fedExRankProjected": 151,
         "movement": -26,
         "totalStrokes": 146,
-        "birthDate": "6/7/1986",
-        "birthPlace": "Woodstock, Vermont - United States",
-        "startHole": "1",
+        "birthDate": "3/29/1996",
+        "birthPlace": "Jacksonville, Florida - United States",
+        "startHole": "10",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
@@ -4337,15 +4357,15 @@
             "roundScore": 74
           }
         ],
-        "golferId": 34657,
-        "firstName": "Keegan",
-        "lastName": "Bradley",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Bradley_Keegan/Bradley_Keegan_L_closeup.jpg",
+        "golferId": 62027,
+        "firstName": "Brent",
+        "lastName": "Grant",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
         "representsCountryName": "United States",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
-        "proDate": "2008-01-01T00:00:00",
-        "age": "37"
+        "proDate": "2017-01-01T00:00:00",
+        "age": "27"
       },
       {
         "golfEventKey": 19966,
@@ -4396,17 +4416,17 @@
         "overallPar": 6,
         "todayPar": 4,
         "thruHole": 18,
-        "teeTime": "9:45 AM ET",
-        "teeTimeUTC": "13:45:00 UTC",
-        "eventMoney": 361396,
+        "teeTime": "10:29 AM ET",
+        "teeTimeUTC": "14:29:00 UTC",
+        "eventMoney": 4977110,
         "status": "",
-        "fedExRank": 302,
-        "fedExRankProjected": 151,
+        "fedExRank": 30,
+        "fedExRankProjected": 15,
         "movement": -26,
         "totalStrokes": 146,
-        "birthDate": "3/29/1996",
-        "birthPlace": "Jacksonville, Florida - United States",
-        "startHole": "10",
+        "birthDate": "6/7/1986",
+        "birthPlace": "Woodstock, Vermont - United States",
+        "startHole": "1",
         "leaderboardRounds": [
           {
             "roundNumber": 1,
@@ -4417,15 +4437,55 @@
             "roundScore": 74
           }
         ],
-        "golferId": 62027,
-        "firstName": "Brent",
-        "lastName": "Grant",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "golferId": 34657,
+        "firstName": "Keegan",
+        "lastName": "Bradley",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Bradley_Keegan/Bradley_Keegan_L_closeup.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2008-01-01T00:00:00",
+        "age": "37"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T109",
+        "courseID": 2826,
+        "sortHelp": 109,
+        "overallPar": 6,
+        "todayPar": 5,
+        "thruHole": 18,
+        "teeTime": "11:35 AM ET",
+        "teeTimeUTC": "15:35:00 UTC",
+        "eventMoney": 2541522,
+        "status": "",
+        "fedExRank": 80,
+        "fedExRankProjected": 40,
+        "movement": -53,
+        "totalStrokes": 146,
+        "birthDate": "1/30/1995",
+        "birthPlace": "Las Vegas, Nevada - United States",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 71
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 75
+          }
+        ],
+        "golferId": 66512,
+        "firstName": "Taylor",
+        "lastName": "Montgomery",
+        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/k-o/483998.jpg",
         "representsCountryName": "United States",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
         "proDate": "2017-01-01T00:00:00",
-        "age": "27"
+        "age": "28"
       },
       {
         "golfEventKey": 19966,
@@ -4509,6 +4569,86 @@
       },
       {
         "golfEventKey": 19966,
+        "isAmateur": true,
+        "position": "T109",
+        "courseID": 2826,
+        "sortHelp": 109,
+        "overallPar": 6,
+        "todayPar": 2,
+        "thruHole": 18,
+        "teeTime": "5:05 PM ET",
+        "teeTimeUTC": "21:05:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": 14,
+        "totalStrokes": 146,
+        "birthDate": "Unknown",
+        "birthPlace": "Massachusetts - United States",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 74
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 73838,
+        "firstName": "Michael",
+        "lastName": "Thorbjornsen",
+        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-large/483959.jpg",
+        "representsCountryName": "Stanford",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482448.png",
+        "representsCountryUrlId": 482448,
+        "proDate": null,
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T109",
+        "courseID": 2826,
+        "sortHelp": 109,
+        "overallPar": 6,
+        "todayPar": 3,
+        "thruHole": 18,
+        "teeTime": "5:05 PM ET",
+        "teeTimeUTC": "21:05:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -2,
+        "totalStrokes": 146,
+        "birthDate": "12/28/1984",
+        "birthPlace": "Dusseldorf - Germany",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 23957,
+        "firstName": "Martin",
+        "lastName": "Kaymer",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Kaymer_Martin/Kaymer_Martin_L_Closeup.jpg",
+        "representsCountryName": "Germany",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475711.gif",
+        "representsCountryUrlId": 475711,
+        "proDate": "2005-01-01T00:00:00",
+        "age": "38"
+      },
+      {
+        "golfEventKey": 19966,
         "isAmateur": false,
         "position": "T109",
         "courseID": 2826,
@@ -4550,252 +4690,20 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T109",
+        "position": "T118",
         "courseID": 2826,
-        "sortHelp": 109,
-        "overallPar": 6,
-        "todayPar": 5,
-        "thruHole": 18,
-        "teeTime": "11:35 AM ET",
-        "teeTimeUTC": "15:35:00 UTC",
-        "eventMoney": 2541522,
-        "status": "",
-        "fedExRank": 80,
-        "fedExRankProjected": 40,
-        "movement": -53,
-        "totalStrokes": 146,
-        "birthDate": "1/30/1995",
-        "birthPlace": "Las Vegas, Nevada - United States",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 71
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 75
-          }
-        ],
-        "golferId": 66512,
-        "firstName": "Taylor",
-        "lastName": "Montgomery",
-        "imageUrl": "https://images.thegolfchannel.com/images/eventphoto/k-o/483998.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2017-01-01T00:00:00",
-        "age": "28"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
-        "overallPar": 7,
-        "todayPar": 2,
-        "thruHole": 18,
-        "teeTime": "11:46 AM ET",
-        "teeTimeUTC": "15:46:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": 21,
-        "totalStrokes": 147,
-        "birthDate": "Unknown",
-        "birthPlace": "-",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 75
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 84036,
-        "firstName": "Olin",
-        "lastName": "Browne Jr.",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "1900-01-01T00:00:00",
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
+        "sortHelp": 118,
         "overallPar": 7,
         "todayPar": 4,
         "thruHole": 18,
-        "teeTime": "11:46 AM ET",
-        "teeTimeUTC": "15:46:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -9,
-        "totalStrokes": 147,
-        "birthDate": "Unknown",
-        "birthPlace": "Uppsala - Sweden",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 73
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 74
-          }
-        ],
-        "golferId": 73193,
-        "firstName": "David",
-        "lastName": "Nyfjall",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "Sweden",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475696.gif",
-        "representsCountryUrlId": 475696,
-        "proDate": "2023-01-01T00:00:00",
-        "age": "24"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
-        "overallPar": 7,
-        "todayPar": 6,
-        "thruHole": 18,
-        "teeTime": "11:57 AM ET",
-        "teeTimeUTC": "15:57:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -60,
-        "totalStrokes": 147,
-        "birthDate": "3/9/1995",
-        "birthPlace": "Mission Viejo, California - United States",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 71
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 76
-          }
-        ],
-        "golferId": 59504,
-        "firstName": "Corey",
-        "lastName": "Pereira",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2017-01-01T00:00:00",
-        "age": "27"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
-        "overallPar": 7,
-        "todayPar": 3,
-        "thruHole": 17,
-        "teeTime": "5:05 PM ET",
-        "teeTimeUTC": "21:05:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": 7,
-        "totalStrokes": 74,
-        "birthDate": "Unknown",
-        "birthPlace": "Massachusetts - United States",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 74
-          }
-        ],
-        "golferId": 73838,
-        "firstName": "Michael",
-        "lastName": "Thorbjornsen",
-        "imageUrl": "https://images.thegolfchannel.com/images/headshot-player-large/483959.jpg",
-        "representsCountryName": "Stanford",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482448.png",
-        "representsCountryUrlId": 482448,
-        "proDate": null,
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
-        "overallPar": 7,
-        "todayPar": 4,
-        "thruHole": 17,
-        "teeTime": "5:05 PM ET",
-        "teeTimeUTC": "21:05:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -9,
-        "totalStrokes": 73,
-        "birthDate": "12/28/1984",
-        "birthPlace": "Dusseldorf - Germany",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 23957,
-        "firstName": "Martin",
-        "lastName": "Kaymer",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Kaymer_Martin/Kaymer_Martin_L_Closeup.jpg",
-        "representsCountryName": "Germany",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475711.gif",
-        "representsCountryUrlId": 475711,
-        "proDate": "2005-01-01T00:00:00",
-        "age": "38"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
-        "overallPar": 7,
-        "todayPar": 4,
-        "thruHole": 17,
         "teeTime": "5:16 PM ET",
         "teeTimeUTC": "21:16:00 UTC",
         "eventMoney": null,
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -9,
-        "totalStrokes": 73,
+        "movement": -11,
+        "totalStrokes": 147,
         "birthDate": "Unknown",
         "birthPlace": "Bangkok - Thailand",
         "startHole": "10",
@@ -4803,6 +4711,10 @@
           {
             "roundNumber": 1,
             "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 74
           }
         ],
         "golferId": 54368,
@@ -4818,9 +4730,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T116",
+        "position": "T118",
         "courseID": 2826,
-        "sortHelp": 116,
+        "sortHelp": 118,
         "overallPar": 7,
         "todayPar": 3,
         "thruHole": 18,
@@ -4830,7 +4742,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 7,
+        "movement": 5,
         "totalStrokes": 147,
         "birthDate": "Unknown",
         "birthPlace": "Sweden",
@@ -4858,9 +4770,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T116",
+        "position": "T118",
         "courseID": 2826,
-        "sortHelp": 116,
+        "sortHelp": 118,
         "overallPar": 7,
         "todayPar": 3,
         "thruHole": 18,
@@ -4870,7 +4782,7 @@
         "status": "",
         "fedExRank": 294,
         "fedExRankProjected": 147,
-        "movement": 7,
+        "movement": 5,
         "totalStrokes": 147,
         "birthDate": "2/27/1976",
         "birthPlace": "Akron, Ohio - United States",
@@ -4898,9 +4810,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T116",
+        "position": "T118",
         "courseID": 2826,
-        "sortHelp": 116,
+        "sortHelp": 118,
         "overallPar": 7,
         "todayPar": 3,
         "thruHole": 18,
@@ -4910,7 +4822,7 @@
         "status": "",
         "fedExRank": 164,
         "fedExRankProjected": 82,
-        "movement": 7,
+        "movement": 5,
         "totalStrokes": 147,
         "birthDate": "7/14/1993",
         "birthPlace": "Seoul - South Korea",
@@ -4937,46 +4849,10 @@
       },
       {
         "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "T116",
-        "courseID": 2826,
-        "sortHelp": 116,
-        "overallPar": 7,
-        "todayPar": 4,
-        "thruHole": 16,
-        "teeTime": "5:27 PM ET",
-        "teeTimeUTC": "21:27:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -9,
-        "totalStrokes": 73,
-        "birthDate": "Unknown",
-        "birthPlace": "Unknown",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 73
-          }
-        ],
-        "golferId": 78131,
-        "firstName": "Bastien",
-        "lastName": "Amat",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "New Mexico",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482741.gif",
-        "representsCountryUrlId": 482741,
-        "proDate": null,
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T116",
+        "position": "T118",
         "courseID": 2826,
-        "sortHelp": 116,
+        "sortHelp": 118,
         "overallPar": 7,
         "todayPar": 9,
         "thruHole": 18,
@@ -4986,7 +4862,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -102,
+        "movement": -104,
         "totalStrokes": 147,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -5013,10 +4889,202 @@
       },
       {
         "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "T127",
+        "isAmateur": false,
+        "position": "T118",
         "courseID": 2826,
-        "sortHelp": 127,
+        "sortHelp": 118,
+        "overallPar": 7,
+        "todayPar": 5,
+        "thruHole": 17,
+        "teeTime": "5:27 PM ET",
+        "teeTimeUTC": "21:27:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -35,
+        "totalStrokes": 72,
+        "birthDate": "4/25/1988",
+        "birthPlace": "Florence - United States",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 25930,
+        "firstName": "Jesse",
+        "lastName": "Schutte",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2010-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": true,
+        "position": "T118",
+        "courseID": 2826,
+        "sortHelp": 118,
+        "overallPar": 7,
+        "todayPar": 4,
+        "thruHole": 16,
+        "teeTime": "5:27 PM ET",
+        "teeTimeUTC": "21:27:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -11,
+        "totalStrokes": 73,
+        "birthDate": "Unknown",
+        "birthPlace": "Unknown",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 73
+          }
+        ],
+        "golferId": 78131,
+        "firstName": "Bastien",
+        "lastName": "Amat",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "New Mexico",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482741.gif",
+        "representsCountryUrlId": 482741,
+        "proDate": null,
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T118",
+        "courseID": 2826,
+        "sortHelp": 118,
+        "overallPar": 7,
+        "todayPar": 4,
+        "thruHole": 18,
+        "teeTime": "11:46 AM ET",
+        "teeTimeUTC": "15:46:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -11,
+        "totalStrokes": 147,
+        "birthDate": "Unknown",
+        "birthPlace": "Uppsala - Sweden",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 74
+          }
+        ],
+        "golferId": 73193,
+        "firstName": "David",
+        "lastName": "Nyfjall",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "Sweden",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475696.gif",
+        "representsCountryUrlId": 475696,
+        "proDate": "2023-01-01T00:00:00",
+        "age": "24"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T118",
+        "courseID": 2826,
+        "sortHelp": 118,
+        "overallPar": 7,
+        "todayPar": 6,
+        "thruHole": 18,
+        "teeTime": "11:57 AM ET",
+        "teeTimeUTC": "15:57:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -62,
+        "totalStrokes": 147,
+        "birthDate": "3/9/1995",
+        "birthPlace": "Mission Viejo, California - United States",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 71
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 76
+          }
+        ],
+        "golferId": 59504,
+        "firstName": "Corey",
+        "lastName": "Pereira",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "2017-01-01T00:00:00",
+        "age": "27"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": false,
+        "position": "T118",
+        "courseID": 2826,
+        "sortHelp": 118,
+        "overallPar": 7,
+        "todayPar": 2,
+        "thruHole": 18,
+        "teeTime": "11:46 AM ET",
+        "teeTimeUTC": "15:46:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": 19,
+        "totalStrokes": 147,
+        "birthDate": "Unknown",
+        "birthPlace": "-",
+        "startHole": "10",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 75
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 72
+          }
+        ],
+        "golferId": 84036,
+        "firstName": "Olin",
+        "lastName": "Browne Jr.",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
+        "proDate": "1900-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": true,
+        "position": "T128",
+        "courseID": 2826,
+        "sortHelp": 128,
         "overallPar": 8,
         "todayPar": 1,
         "thruHole": 18,
@@ -5026,7 +5094,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": 20,
+        "movement": 19,
         "totalStrokes": 148,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -5054,45 +5122,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T127",
+        "position": "T128",
         "courseID": 2826,
-        "sortHelp": 127,
-        "overallPar": 8,
-        "todayPar": 6,
-        "thruHole": 16,
-        "teeTime": "5:27 PM ET",
-        "teeTimeUTC": "21:27:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -44,
-        "totalStrokes": 72,
-        "birthDate": "4/25/1988",
-        "birthPlace": "Florence - United States",
-        "startHole": "10",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          }
-        ],
-        "golferId": 25930,
-        "firstName": "Jesse",
-        "lastName": "Schutte",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": "2010-01-01T00:00:00",
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T127",
-        "courseID": 2826,
-        "sortHelp": 127,
+        "sortHelp": 128,
         "overallPar": 8,
         "todayPar": 4,
         "thruHole": 18,
@@ -5102,7 +5134,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -4,
+        "movement": -5,
         "totalStrokes": 148,
         "birthDate": "1/16/2000",
         "birthPlace": "Buenos Aires - Argentina",
@@ -5130,9 +5162,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T127",
+        "position": "T128",
         "courseID": 2826,
-        "sortHelp": 127,
+        "sortHelp": 128,
         "overallPar": 8,
         "todayPar": 5,
         "thruHole": 18,
@@ -5142,7 +5174,7 @@
         "status": "",
         "fedExRank": 120,
         "fedExRankProjected": 60,
-        "movement": -20,
+        "movement": -21,
         "totalStrokes": 148,
         "birthDate": "8/24/1991",
         "birthPlace": "Seoul - South Korea",
@@ -5170,9 +5202,9 @@
       {
         "golfEventKey": 19966,
         "isAmateur": false,
-        "position": "T127",
+        "position": "T128",
         "courseID": 2826,
-        "sortHelp": 127,
+        "sortHelp": 128,
         "overallPar": 8,
         "todayPar": 7,
         "thruHole": 18,
@@ -5182,7 +5214,7 @@
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -71,
+        "movement": -72,
         "totalStrokes": 148,
         "birthDate": "5/15/1983",
         "birthPlace": "Barcelona - Spain",
@@ -5494,46 +5526,6 @@
         "courseID": 2826,
         "sortHelp": 132,
         "overallPar": 9,
-        "todayPar": 7,
-        "thruHole": 18,
-        "teeTime": "11:57 AM ET",
-        "teeTimeUTC": "15:57:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -49,
-        "totalStrokes": 149,
-        "birthDate": "Unknown",
-        "birthPlace": "Unknown",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 72
-          },
-          {
-            "roundNumber": 2,
-            "roundScore": 77
-          }
-        ],
-        "golferId": 76058,
-        "firstName": "Christian",
-        "lastName": "Cavaliere",
-        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
-        "representsCountryName": "United States",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
-        "representsCountryUrlId": 475851,
-        "proDate": null,
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "T132",
-        "courseID": 2826,
-        "sortHelp": 132,
-        "overallPar": 9,
         "todayPar": 5,
         "thruHole": 18,
         "teeTime": "11:46 AM ET",
@@ -5564,6 +5556,46 @@
         "representsCountryName": "Stanford",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482448.png",
         "representsCountryUrlId": 482448,
+        "proDate": null,
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": true,
+        "position": "T132",
+        "courseID": 2826,
+        "sortHelp": 132,
+        "overallPar": 9,
+        "todayPar": 7,
+        "thruHole": 18,
+        "teeTime": "11:57 AM ET",
+        "teeTimeUTC": "15:57:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -49,
+        "totalStrokes": 149,
+        "birthDate": "Unknown",
+        "birthPlace": "Unknown",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 72
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 77
+          }
+        ],
+        "golferId": 76058,
+        "firstName": "Christian",
+        "lastName": "Cavaliere",
+        "imageUrl": "https://images.thegolfchannel.com/images/affiliatesite/483124.jpg",
+        "representsCountryName": "United States",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
+        "representsCountryUrlId": 475851,
         "proDate": null,
         "age": "Unknown"
       },
@@ -5735,7 +5767,7 @@
         "sortHelp": 144,
         "overallPar": 11,
         "todayPar": 8,
-        "thruHole": 17,
+        "thruHole": 18,
         "teeTime": "5:05 PM ET",
         "teeTimeUTC": "21:05:00 UTC",
         "eventMoney": null,
@@ -5743,7 +5775,7 @@
         "fedExRank": null,
         "fedExRankProjected": null,
         "movement": -37,
-        "totalStrokes": 73,
+        "totalStrokes": 151,
         "birthDate": "Unknown",
         "birthPlace": "Unknown",
         "startHole": "10",
@@ -5751,6 +5783,10 @@
           {
             "roundNumber": 1,
             "roundScore": 73
+          },
+          {
+            "roundNumber": 2,
+            "roundScore": 78
           }
         ],
         "golferId": 82546,
@@ -5971,7 +6007,7 @@
         "sortHelp": 151,
         "overallPar": 13,
         "todayPar": 4,
-        "thruHole": 16,
+        "thruHole": 17,
         "teeTime": "5:27 PM ET",
         "teeTimeUTC": "21:27:00 UTC",
         "eventMoney": null,
@@ -5997,42 +6033,6 @@
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
         "proDate": null,
-        "age": "Unknown"
-      },
-      {
-        "golfEventKey": 19966,
-        "isAmateur": false,
-        "position": "T152",
-        "courseID": 2826,
-        "sortHelp": 152,
-        "overallPar": 14,
-        "todayPar": 7,
-        "thruHole": 16,
-        "teeTime": "5:16 PM ET",
-        "teeTimeUTC": "21:16:00 UTC",
-        "eventMoney": null,
-        "status": "",
-        "fedExRank": null,
-        "fedExRankProjected": null,
-        "movement": -5,
-        "totalStrokes": 77,
-        "birthDate": "4/14/1985",
-        "birthPlace": "Stockport - England",
-        "startHole": "1",
-        "leaderboardRounds": [
-          {
-            "roundNumber": 1,
-            "roundScore": 77
-          }
-        ],
-        "golferId": 38698,
-        "firstName": "David",
-        "lastName": "Horsey",
-        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Horsey_David/Horsey_David_R_closeup.jpg",
-        "representsCountryName": "England",
-        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
-        "representsCountryUrlId": 476063,
-        "proDate": "2007-01-01T00:00:00",
         "age": "Unknown"
       },
       {
@@ -6117,20 +6117,56 @@
       },
       {
         "golfEventKey": 19966,
-        "isAmateur": true,
-        "position": "155",
+        "isAmateur": false,
+        "position": "T154",
         "courseID": 2826,
-        "sortHelp": 155,
+        "sortHelp": 154,
         "overallPar": 15,
-        "todayPar": 7,
-        "thruHole": 16,
+        "todayPar": 8,
+        "thruHole": 17,
         "teeTime": "5:16 PM ET",
         "teeTimeUTC": "21:16:00 UTC",
         "eventMoney": null,
         "status": "",
         "fedExRank": null,
         "fedExRankProjected": null,
-        "movement": -2,
+        "movement": -7,
+        "totalStrokes": 77,
+        "birthDate": "4/14/1985",
+        "birthPlace": "Stockport - England",
+        "startHole": "1",
+        "leaderboardRounds": [
+          {
+            "roundNumber": 1,
+            "roundScore": 77
+          }
+        ],
+        "golferId": 38698,
+        "firstName": "David",
+        "lastName": "Horsey",
+        "imageUrl": "https://static.golfchannel.com/GC/2018/headshots/Horsey_David/Horsey_David_R_closeup.jpg",
+        "representsCountryName": "England",
+        "representsCountryUrl": "https://images.thegolfchannel.com/images/element/476063.gif",
+        "representsCountryUrlId": 476063,
+        "proDate": "2007-01-01T00:00:00",
+        "age": "Unknown"
+      },
+      {
+        "golfEventKey": 19966,
+        "isAmateur": true,
+        "position": "T154",
+        "courseID": 2826,
+        "sortHelp": 154,
+        "overallPar": 15,
+        "todayPar": 7,
+        "thruHole": 17,
+        "teeTime": "5:16 PM ET",
+        "teeTimeUTC": "21:16:00 UTC",
+        "eventMoney": null,
+        "status": "",
+        "fedExRank": null,
+        "fedExRankProjected": null,
+        "movement": -1,
         "totalStrokes": 78,
         "birthDate": "Unknown",
         "birthPlace": "-",
@@ -6351,7 +6387,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -7503,7 +7539,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -8223,7 +8259,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 1,
@@ -8367,7 +8403,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -8655,7 +8691,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -9087,7 +9123,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -9231,7 +9267,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -9519,7 +9555,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -10095,7 +10131,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -11103,7 +11139,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -11535,7 +11571,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 1,
@@ -11679,7 +11715,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -11823,7 +11859,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -12111,7 +12147,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -12399,7 +12435,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -12543,7 +12579,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -12687,7 +12723,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -13263,7 +13299,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -14415,7 +14451,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 4,
+        "position": 3,
         "scores": [
           {
             "hole": 10,
@@ -14703,7 +14739,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 39,
+        "position": 50,
         "scores": [
           {
             "hole": 10,
@@ -14991,7 +15027,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -15279,7 +15315,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 109,
         "scores": [
           {
             "hole": 10,
@@ -15423,7 +15459,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -15567,7 +15603,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 109,
         "scores": [
           {
             "hole": 10,
@@ -15711,7 +15747,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -15855,7 +15891,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -15999,7 +16035,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -16143,7 +16179,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 152,
+        "position": 154,
         "scores": [
           {
             "hole": 10,
@@ -16287,7 +16323,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 155,
+        "position": 154,
         "scores": [
           {
             "hole": 10,
@@ -16431,7 +16467,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 50,
+        "position": 39,
         "scores": [
           {
             "hole": 10,
@@ -16719,7 +16755,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -16863,7 +16899,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 67,
         "scores": [
           {
             "hole": 1,
@@ -17007,7 +17043,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -17295,7 +17331,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -17871,7 +17907,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -18303,7 +18339,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -18735,7 +18771,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 10,
@@ -19455,7 +19491,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -19599,7 +19635,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -20175,7 +20211,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -20319,7 +20355,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -21039,7 +21075,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 4,
+        "position": 5,
         "scores": [
           {
             "hole": 1,
@@ -22335,7 +22371,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -22479,7 +22515,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 10,
@@ -22623,7 +22659,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -24495,7 +24531,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -26223,7 +26259,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -26943,7 +26979,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -27519,7 +27555,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -27807,7 +27843,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -28095,7 +28131,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -28239,7 +28275,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -28808,14 +28844,14 @@
         "golferId": 59503,
         "round": 2,
         "out": 34,
-        "in": 33,
-        "total": 67,
+        "in": 36,
+        "total": 70,
         "startHole": 1,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 4,
+        "position": 3,
         "scores": [
           {
             "hole": 1,
@@ -28940,7 +28976,7 @@
             "hole": 18,
             "holeOrder": 18,
             "par": 4,
-            "score": "",
+            "score": "3",
             "yardage": 492
           }
         ]
@@ -29960,14 +29996,14 @@
         "golferId": 61954,
         "round": 2,
         "out": 38,
-        "in": 29,
-        "total": 67,
+        "in": 32,
+        "total": 70,
         "startHole": 1,
-        "holesPlayed": 16,
+        "holesPlayed": 17,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 50,
+        "position": 39,
         "scores": [
           {
             "hole": 1,
@@ -30085,7 +30121,7 @@
             "hole": 17,
             "holeOrder": 17,
             "par": 4,
-            "score": "",
+            "score": "3",
             "yardage": 520
           },
           {
@@ -30111,7 +30147,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 4,
+        "position": 5,
         "scores": [
           {
             "hole": 10,
@@ -30831,7 +30867,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -31119,7 +31155,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -32696,10 +32732,10 @@
         "golferId": 66448,
         "round": 2,
         "out": 35,
-        "in": 31,
-        "total": 66,
+        "in": 35,
+        "total": 70,
         "startHole": 1,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -32828,7 +32864,7 @@
             "hole": 18,
             "holeOrder": 18,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 492
           }
         ]
@@ -32840,14 +32876,14 @@
         "golferId": 58207,
         "round": 2,
         "out": 34,
-        "in": 34,
-        "total": 68,
+        "in": 39,
+        "total": 73,
         "startHole": 1,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 39,
+        "position": 50,
         "scores": [
           {
             "hole": 1,
@@ -32972,7 +33008,7 @@
             "hole": 18,
             "holeOrder": 18,
             "par": 4,
-            "score": "",
+            "score": "5",
             "yardage": 492
           }
         ]
@@ -34143,7 +34179,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -34431,7 +34467,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -34719,7 +34755,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -35007,7 +35043,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -35143,15 +35179,15 @@
         "eventName": "U.S. Open",
         "golferId": 73751,
         "round": 2,
-        "out": 32,
+        "out": 35,
         "in": 40,
-        "total": 72,
+        "total": 75,
         "startHole": 10,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -35276,7 +35312,7 @@
             "hole": 9,
             "holeOrder": 18,
             "par": 3,
-            "score": "",
+            "score": "3",
             "yardage": 171
           }
         ]
@@ -35287,15 +35323,15 @@
         "eventName": "U.S. Open",
         "golferId": 25516,
         "round": 2,
-        "out": 28,
+        "out": 32,
         "in": 38,
-        "total": 66,
+        "total": 70,
         "startHole": 10,
-        "holesPlayed": 16,
+        "holesPlayed": 17,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 67,
         "scores": [
           {
             "hole": 10,
@@ -35413,7 +35449,7 @@
             "hole": 8,
             "holeOrder": 17,
             "par": 5,
-            "score": "",
+            "score": "4",
             "yardage": 537
           },
           {
@@ -37023,7 +37059,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 10,
@@ -37167,7 +37203,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -37599,7 +37635,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -38167,15 +38203,15 @@
         "eventName": "U.S. Open",
         "golferId": 77297,
         "round": 2,
-        "out": 33,
+        "out": 37,
         "in": 37,
-        "total": 70,
+        "total": 74,
         "startHole": 10,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -38300,7 +38336,7 @@
             "hole": 9,
             "holeOrder": 18,
             "par": 3,
-            "score": "",
+            "score": "4",
             "yardage": 171
           }
         ]
@@ -38463,7 +38499,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -39471,7 +39507,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -40191,7 +40227,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -40335,7 +40371,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -40479,7 +40515,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -40767,7 +40803,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -41199,7 +41235,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -41343,7 +41379,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -41775,7 +41811,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -41911,15 +41947,15 @@
         "eventName": "U.S. Open",
         "golferId": 25930,
         "round": 2,
-        "out": 29,
+        "out": 33,
         "in": 39,
-        "total": 68,
+        "total": 72,
         "startHole": 10,
-        "holesPlayed": 16,
+        "holesPlayed": 17,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -42037,7 +42073,7 @@
             "hole": 8,
             "holeOrder": 17,
             "par": 5,
-            "score": "",
+            "score": "4",
             "yardage": 537
           },
           {
@@ -42063,7 +42099,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -42495,7 +42531,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -43503,7 +43539,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -43647,7 +43683,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -44367,7 +44403,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 10,
@@ -44511,7 +44547,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -44791,11 +44827,11 @@
         "eventName": "U.S. Open",
         "golferId": 82546,
         "round": 2,
-        "out": 34,
+        "out": 37,
         "in": 41,
-        "total": 75,
+        "total": 78,
         "startHole": 10,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -44924,7 +44960,7 @@
             "hole": 9,
             "holeOrder": 18,
             "par": 3,
-            "score": "",
+            "score": "3",
             "yardage": 171
           }
         ]
@@ -44936,14 +44972,14 @@
         "golferId": 23957,
         "round": 2,
         "out": 37,
-        "in": 33,
-        "total": 70,
+        "in": 36,
+        "total": 73,
         "startHole": 1,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 109,
         "scores": [
           {
             "hole": 1,
@@ -45068,7 +45104,7 @@
             "hole": 18,
             "holeOrder": 18,
             "par": 4,
-            "score": "",
+            "score": "3",
             "yardage": 492
           }
         ]
@@ -45079,15 +45115,15 @@
         "eventName": "U.S. Open",
         "golferId": 54368,
         "round": 2,
-        "out": 31,
+        "out": 34,
         "in": 40,
-        "total": 71,
+        "total": 74,
         "startHole": 10,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -45212,7 +45248,7 @@
             "hole": 9,
             "holeOrder": 18,
             "par": 3,
-            "score": "",
+            "score": "3",
             "yardage": 171
           }
         ]
@@ -45231,7 +45267,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -45375,7 +45411,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -46095,7 +46131,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -46527,7 +46563,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -46815,7 +46851,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -46959,7 +46995,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 1,
@@ -47247,7 +47283,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -47528,14 +47564,14 @@
         "golferId": 73838,
         "round": 2,
         "out": 38,
-        "in": 31,
-        "total": 69,
+        "in": 34,
+        "total": 72,
         "startHole": 1,
-        "holesPlayed": 17,
+        "holesPlayed": 18,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 109,
         "scores": [
           {
             "hole": 1,
@@ -47660,7 +47696,7 @@
             "hole": 18,
             "holeOrder": 18,
             "par": 4,
-            "score": "",
+            "score": "3",
             "yardage": 492
           }
         ]
@@ -47679,7 +47715,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 1,
@@ -47823,7 +47859,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 1,
@@ -48399,7 +48435,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 10,
@@ -48687,7 +48723,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -48831,7 +48867,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 94,
+        "position": 93,
         "scores": [
           {
             "hole": 10,
@@ -48975,7 +49011,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 116,
+        "position": 118,
         "scores": [
           {
             "hole": 10,
@@ -49119,7 +49155,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 79,
+        "position": 80,
         "scores": [
           {
             "hole": 1,
@@ -49976,14 +50012,14 @@
         "golferId": 38698,
         "round": 2,
         "out": 40,
-        "in": 29,
-        "total": 69,
+        "in": 34,
+        "total": 74,
         "startHole": 1,
-        "holesPlayed": 16,
+        "holesPlayed": 17,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 152,
+        "position": 154,
         "scores": [
           {
             "hole": 1,
@@ -50101,7 +50137,7 @@
             "hole": 17,
             "holeOrder": 17,
             "par": 4,
-            "score": "",
+            "score": "5",
             "yardage": 520
           },
           {
@@ -50127,7 +50163,7 @@
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 127,
+        "position": 128,
         "scores": [
           {
             "hole": 1,
@@ -50552,14 +50588,14 @@
         "golferId": 70582,
         "round": 2,
         "out": 39,
-        "in": 30,
-        "total": 69,
+        "in": 34,
+        "total": 73,
         "startHole": 1,
-        "holesPlayed": 16,
+        "holesPlayed": 17,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
-        "position": 155,
+        "position": 154,
         "scores": [
           {
             "hole": 1,
@@ -50677,7 +50713,7 @@
             "hole": 17,
             "holeOrder": 17,
             "par": 4,
-            "score": "",
+            "score": "4",
             "yardage": 520
           },
           {
@@ -50983,11 +51019,11 @@
         "eventName": "U.S. Open",
         "golferId": 70594,
         "round": 2,
-        "out": 29,
+        "out": 34,
         "in": 37,
-        "total": 66,
+        "total": 71,
         "startHole": 10,
-        "holesPlayed": 16,
+        "holesPlayed": 17,
         "matchId": null,
         "courseKey": 2826,
         "stats": null,
@@ -51109,7 +51145,7 @@
             "hole": 8,
             "holeOrder": 17,
             "par": 5,
-            "score": "",
+            "score": "5",
             "yardage": 537
           },
           {
