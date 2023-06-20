@@ -2957,7 +2957,7 @@
       },
       {
         "golfEventKey": 19966,
-        "isAmateur": true,
+        "isAmateur": false,
         "position": "62",
         "courseID": 2826,
         "sortHelp": 62,
@@ -3000,7 +3000,7 @@
         "representsCountryName": "Georgia Southern",
         "representsCountryUrl": "https://images.thegolfchannel.com/images/affiliatesite/482768.gif",
         "representsCountryUrlId": 482768,
-        "proDate": null,
+        "proDate": "2023-01-01T00:00:00",
         "age": "22"
       },
       {
@@ -3665,7 +3665,7 @@
         "representsCountryUrl": "https://images.thegolfchannel.com/images/element2008/475851.gif",
         "representsCountryUrlId": 475851,
         "proDate": "1992-01-01T00:00:00",
-        "age": "52"
+        "age": "53"
       },
       {
         "golfEventKey": 19966,
